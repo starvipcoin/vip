@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string name="Settings">Einstellungen</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Info</string>
+    <string name="about_and_phone_number">Kontakt Informationen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="add_contact">Kontakt Hinzufügen</string>
+    <string name="add_participants">Benutzer Hinzufügen</string>
+    <string name="add_recipients">Beitrag Hinzufügen</string>
+    <string name="add_to_contacts">ins Telefonbuch hinzufügen</string>
+    <string name="added">Hinzufügen</string>
+    <string name="added_successfully">erfolgreich hinzugefügt</string>
+    <string name="adding">hinzufügen..</string>
+    <string name="after_1_minute">1 Minute Vergangen</string>
+    <string name="after_30_minutes">30 Minute Vergangen </string>
+    <string name="after_5_minutes">5 Minute Vergangen </string>
+    <string name="agree_and_continue"> Mitmachen und weitermachen </string>
+    <string name="album_name_all">Alle Medien</string>
+    <string name="answer">Annehmen</string>
+    <string name="app_info">%s ist eine Massager App, die Benutzer mit
+einer einfachen und großartigen Benutzeroberfläche verbindet </string>
+    <string name="are_no_longer_an_admin">ist kein Admin mehr</string>
+    <string name="are_now_an_admin">ist jetzt ein Admin</string>
+    <string name="at">bei</string>
+    <string name="audio">Audio</string>
+    <string name="audio_permission_error">Ton / Mikrofon freigabe
+fehlt</string>
+    <string name="authenticate_with">Authentifizierung mit %s </string>
+    <string name="backing_up">backup wird erstellt..</string>
+    <string name="backing_up_message"> Nachricht wird gesichert, bitte
+beenden Sie die App nicht </string>
+    <string name="backup">Sicherung</string>
+    <string name="backup_failed"> Sicherung fehlgeschlagen </string>
+    <string name="backup_file_mismatched"> Die Sicherungsdatei stimmt nicht
+mit Ihrer Telefonnummer überein!</string>
+    <string name="backup_success"> Backup-war Erfolgreich </string>
+    <string name="banned_from_group">sie wurden soeben aus der Gruppe
+Gekickt</string>
+    <string name="biometric">Biometrisch</string>
+    <string name="biometrics_not_available"> Biometrie ist auf diesem Gerät
+nicht verfügbar!</string>
+    <string name="block_contact">Kontakt Blockieren</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="broadcast_list_info">Beitrag Informationen</string>
+    <string name="broadcast_name">Beitrags Name</string>
+    <string name="button_apply">Auswählen(%1$d)</string>
+    <string name="button_apply_default">Auswählen</string>
+    <string name="button_back">Zurück</string>
+    <string name="button_ok">OK</string>
+    <string name="button_preview">Vorschau</string>
+    <string name="call_cancelled">Anruf abgebrochen</string>
+    <string name="call_denied">Abgelehnt</string>
+    <string name="call_ended">Anruf Beendet</string>
+    <string name="call_failure">Verbindung Fehlgeschlagen </string>
+    <string name="call_no_answer">Unbeantwortet</string>
+    <string name="call_type">%s Anrufen</string>
+    <string name="calls">Anrufe</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_tip">zum Aufnehmen gedrückt Halten.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cancel_verification_confirmation_message"> Möchten Sie
+die Anfrage zur Bestätigung Ihrer Telefonnummer wirklich
+abbrechen?</string>
+    <string name="cannot_open_this_file">Datei konnte nicht Geöffnet
+werden</string>
+    <string name="change_location">Ort Ändern</string>
+    <string name="changed_group_preferences"> Gruppen Informationen
+geändert </string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="chat">Chat</string>
+    <string name="chat_backup"> Chat-Backup </string>
+    <string name="chat_settings">Chat Einstellungen</string>
+    <string name="chats">Chats</string>
+    <string name="checking">Überprüfung....</string>
+    <string name="checking_contact">Kontakt Informationen</string>
+    <string name="choose_email_app">Email wählen </string>
+    <string name="choose_number">wählen Sie eine Nummer </string>
+    <string name="choose_wallpaper"> Hintergrundbild auswählen </string>
+    <string name="clear_chat">Verlauf löschen</string>
+    <string name="clear_chat_message"> Möchten Sie wirklich alle
+Nachrichten in diesem Chat löschen?</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Verfügbarkeit von Google Play-Diensten"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Passwort nutzen"</string>
+    <string name="confirmation">Bestätigung" </string>
+    <string name="connecting">Verbinden</string>
+    <string name="contact">Kontakt</string>
+    <string name="contact_info">Kontaktinformationen</string>
+    <string name="copied_to_clipboard">kopiert im zweichen
+Speicher..</string>
+    <string name="copy">Kopieren</string>
+    <string name="copy_link">link kopieren</string>
+    <string name="could_not_add_fingerprint"> Fingerabdruck konnte nicht
+hinzugefügt werden </string>
+    <string name="could_not_get_audio_file">Audio konnte nicht empfangen
+werden </string>
+    <string name="could_not_get_this_file">ordnernicht empfangen</string>
+    <string name="could_not_get_this_image">Bild konnte nicht empfangen
+werden </string>
+    <string name="count">Menge</string>
+    <string name="created"> Bearbeitet </string>
+    <string name="created_by">erstellt von</string>
+    <string name="created_this_group">erstelle die Gruppe</string>
+    <string name="crop_image_activity_no_permissions">Vorgang wird abgebrochen, benötigte Berechtigungen wurden nicht erteilt.</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">zuschneiden</string>
+    <string name="days_ago">Tage zuvor</string>
+    <string name="decline"> Ablehnen </string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Unbekannter Fehler"</string>
+    <string name="default_status">Heeey %s benutze ich !</string>
+    <string name="delete">Löchen</string>
+    <string name="delete_broadcast_confirmation"> Lösche diesen
+Beitrag?</string>
+    <string name="delete_broadcast_list">Beitrag Löchen</string>
+    <string name="delete_calls_confirmation"> Ausgewählte Anrufe
+löschen?</string>
+    <string name="delete_conversation_confirmation"> Möchten Sie diesen
+Chat wirklich löschen?</string>
+    <string name="delete_for_everyone">für alle Löchen</string>
+    <string name="delete_for_me">für mich Löchen </string>
+    <string name="delete_group">Gruppe Löschen</string>
+    <string name="delete_group_confirmation"> Möchten Sie diesen Chat
+wirklich löschen? </string>
+    <string name="delete_media_from_phone">datei aus dem Telefon Löschen
+</string>
+    <string name="delete_member"> Mitglied Löchen </string>
+    <string name="delete_member_message"> Möchten Sie dieses Mitglied
+wirklich löschen?</string>
+    <string name="delete_messages_confirmation">Nachricht löschen?</string>
+    <string name="delete_status_confirmation"> Möchten Sie diesen Status
+wirklich löschen?</string>
+    <string name="deleting">wird gelöscht ..</string>
+    <string name="dismiss_admin">Admin Rechte Entnehmen</string>
+    <string name="do_not_show_again"> Diese Nachricht nicht mehr anzeigen
+</string>
+    <string name="does_not_have_fireapp">%s nicht Beinhaltet </string>
+    <string name="dummy_button">Fehlerhafter Button</string>
+    <string name="dummy_content">Fehlerhafter Kontakt </string>
+    <string name="edit">Bearbeiten</string>
+    <string name="edit_recipients">Beitrag Bearbeiten</string>
+    <string name="empty_text">Keine Medien gewählt</string>
+    <string name="enter_correct_number"> Bitte geben Sie eine korrekte Zahl
+ein </string>
+    <string name="enter_is_send_title">senden klicken um eine Nachricht zu
+versenden</string>
+    <string name="enter_is_sent_smmary">zum versenden Senden
+klicken</string>
+    <string name="enter_phone_confirmation_message"> Wir senden Ihnen eine
+SMS an %s, um Ihre Nummer zu bestätigen. </string>
+    <string name="enter_the_otp_sent_to">Geben Sie das an %s gesendete OTP
+ein </string>
+    <string name="enter_your_name">tragen Sie Ihren Namen ein.</string>
+    <string name="enter_your_phone_number"> Bitte geben sie ihre
+Telefonnummer ein </string>
+    <string name="enter_your_status">geben Sie iIhren Status ein.</string>
+    <string name="error">Fehler</string>
+    <string name="error_calling"> Beim Tätigen des Anrufs ist ein Fehler
+aufgetreten </string>
+    <string name="error_file_type">Dateityp nicht unterstützt</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="error_no_video_activity">Keine App zur Videovorschau gefunden</string>
+    <string name="error_over_count">Sie können nur %1$d Medien auswählen</string>
+    <string name="error_over_count_default">Sie haben die maximale Anzahl an Medien ausgewählt.</string>
+    <string name="error_over_quality">Über Qualität</string>
+    <string name="error_playing_this">Fehler beim abspielen der
+Datei</string>
+    <string name="error_removing_member"> Mitglied eneklenen
+Fehlgeschlagen</string>
+    <string name="error_restoring_backup"> Fehler beim Wiederherstellen der
+Sicherung </string>
+    <string name="error_type_conflict">Sie können Bilder und Videos nicht gleichzeitig auswählen</string>
+    <string name="error_under_quality">Unter Qualität</string>
+    <string name="error_uploading_status"> Fehler beim Laden des Status
+</string>
+    <string name="exit_group">Gruppe Verlassen</string>
+    <string name="exit_group_confirmation_dialog"> Möchten Sie diese Gruppe
+wirklich verlassen?</string>
+    <string name="exit_the_group">Gruppe Verlassen</string>
+    <string name="exiting_group">Gruppe wird Verlassen..</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Erweitert"</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="face">Gesicht</string>
+    <string name="failed_to_load_wallpaper"> Hintergrundbild konnte nicht
+geladen werden </string>
+    <string name="fcm_fallback_notification_channel_label">Sonstiges</string>
+    <string name="feedback">Feedback</string>
+    <string name="fetching_group">wird der Gruppe Hinzugefügt..</string>
+    <string name="file">ordner</string>
+    <string name="file_is_too_big">datei zu gross</string>
+    <string name="files">Ordner</string>
+    <string name="fingerprint">Fingerabdruck</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Fingerabdrucksensor berühren"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Fingerabdruckhardware nicht verfügbar."</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Dieses Gerät hat keinen Fingerabdrucksensor"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Zu viele Versuche. Versuche es bitte später noch einmal."</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Keine Fingerabdrücke erfasst."</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Vorgang der Fingerabdruckauthentifizierung vom Nutzer abgebrochen."</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Nicht erkannt"</string>
+    <string name="fireapp_video_call">%s Video Unterhaltung</string>
+    <string name="fireapp_voice_call">%s Sprachanruf</string>
+    <string name="forward">Weiter</string>
+    <string name="gallery">Galerie</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Keine PIN, kein Muster und kein Passwort festgelegt."</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Dieses Gerät kann nicht mit einer PIN, einem Muster oder einem Passwort gesperrt bzw. entsperrt werden."</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Authentifizierung vom Nutzer abgebrochen."</string>
+    <string name="group_hint">Gruppen Name</string>
+    <string name="group_info">Gruppen Informationen</string>
+    <string name="group_name_changed">Gruppen Name wurde Verändert</string>
+    <string name="group_title">Gruppen Titel</string>
+    <string name="hangup">Auflegen</string>
+    <string name="hello_blank_fragment">Hallo..</string>
+    <string name="hours_ago">Stunden zuvor</string>
+    <string name="ic_flip_24">spiegeln</string>
+    <string name="ic_flip_24_horizontally">horizontal spiegeln</string>
+    <string name="ic_flip_24_vertically">vertikal spiegeln</string>
+    <string name="ic_rotate_left_24">gegen den Uhrzeigersinn drehen</string>
+    <string name="ic_rotate_right_24">drehen</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="ignore_battery_dialog_message"> Um sicherzustellen, dass
+alle Nachrichten korrekt zugestellt werden, müssen Sie die
+Batterieoptimierung deaktivieren. \\n Nachdem Sie auf OK geklickt haben,
+wählen Sie %s und klicken Sie auf Nicht optimieren.</string>
+    <string name="ignore_battery_dialog_title"> Batterieoptimierung
+ignorieren </string>
+    <string name="ignore_battery_summary"> Sie müssen die
+Batterieoptimierung deaktivieren, um sicherzustellen, dass alle Nachrichten
+korrekt zugestellt werden </string>
+    <string name="image_changed">Bild wurde Ausgetauscht</string>
+    <string name="image_video_not_found">Ausgewähltes Foto oder Video nicht
+Gefunden</string>
+    <string name="img_transition">img_transition</string>
+    <string name="immediately">Sofort</string>
+    <string name="incoming_video_call"> Eingehender Videoanruf </string>
+    <string name="incoming_voice_call"> Eingehender Sprachanruf </string>
+    <string name="invalid_group_link"> ungültiger Gruppenlink </string>
+    <string name="invalid_phone_number"> Ungültige Telefonnummer </string>
+    <string name="invalid_verification_code"> Bestätigungscode ist ungültig
+</string>
+    <string name="invite">Einladen</string>
+    <string name="iris">İris</string>
+    <string name="is_no_longer_an_admin">hat keine Admin Rechte
+mdhr</string>
+    <string name="is_now_an_admin">ist jetzt ein Admin</string>
+    <string name="item_deleted_from_storage">Dieser Artikel ist aus Ihrem Lager
+gelöscht</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="join_group">Gruppe Beitreten</string>
+    <string name="joined_via_invite_link"> per Einladungslink beigetreten
+</string>
+    <string name="just_now">jetzt</string>
+    <string name="last_backup"> Letzte Sicherung </string>
+    <string name="left_group">Gruppe Links</string>
+    <string name="loading">wird Hochgeladen..</string>
+    <string name="location">Standort</string>
+    <string name="lock_after"> dann sperren </string>
+    <string name="locked">Gesperrt</string>
+    <string name="make_group_admin">Gruppen Admin Rechte Geben </string>
+    <string name="mark_as_read"> als gelesen markieren </string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="max_number_of_users_reached">Max. Anzahl der Benutzer
+erreicht</string>
+    <string name="media">Medien</string>
+    <string name="media_auto_download_title">Datei Automatisch
+Herunterladen</string>
+    <string name="media_player_error">Datei nicht gefunden oder Berechtigungen
+fehlen</string>
+    <string name="member_removed"> Mitglied entfernt </string>
+    <string name="message">Gesendet</string>
+    <string name="message_is_too_long">Nachricht ist zu lang..</string>
+    <string name="message_member">Nachricht</string>
+    <string name="minutes_ago">Minuten zuvor</string>
+    <string name="missed_call_notification"> Verpasster Anruf:</string>
+    <string name="missing_permissions">fehlerhafte Freigaben</string>
+    <string name="mobile_data_title">Mobile Daten Nutzung</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Spalte \"Wochentag\": %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="mute_notifications">Benachrichtigungen
+Deaktivieren</string>
+    <string name="my_status">Mein Status</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Nach oben"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Navigationsleiste öffnen"</string>
+    <string name="nearby_places">in der Nähe</string>
+    <string name="new_broadcast">Neuer Beitrag</string>
+    <string name="new_group">Neue Gruppe</string>
+    <string name="no">Nein</string>
+    <string name="no_close_the_app">Nein App Schließen</string>
+    <string name="no_contacts">Kontakt %s existiert nicht </string>
+    <string name="no_internet_connection">keine İnternet
+Verbindung</string>
+    <string name="no_link_gnerated"> Verbindung nicht hergestellt </string>
+    <string name="no_longer_participant">sie sind nicht mehr in der
+Gruppe</string>
+    <string name="no_media_summary">Keinen Medien</string>
+    <string name="not_contact_selected">Kontakt konnte nicht ausgewählt
+werden</string>
+    <string name="not_found">Bulunamadı</string>
+    <string msgid="478774118347071097" name="not_set">"Nicht festgelegt"</string>
+    <string name="notifications">Benachrichtigung</string>
+    <string name="now">Jetzt</string>
+    <string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
+    <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
+    <string name="offline_opt_in_decline">Nein danke</string>
+    <string name="offline_opt_in_message">Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden.</string>
+    <string name="offline_opt_in_title">Werbung öffnen, wenn du wieder online bist.</string>
+    <string name="ok">ok</string>
+    <string name="online">Online</string>
+    <string name="only_admins_can_post"> Nur Admins können posten </string>
+    <string name="otp_verification">OTP Verifizierung</string>
+    <string name="participants">Teilnehmer</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="phone_auth_info"> Sie erhalten einen 6-stelligen Code zur
+Überprüfung. \NStandards können zutreffen </string>
+    <string name="photo">Foto</string>
+    <string name="photo_grid_capture">Kamera</string>
+    <string name="photos">Fotoos</string>
+    <string name="pick_image_intent_chooser_title">Quelle wählen</string>
+    <string name="playing_audio">Audio Abspielen</string>
+    <string name="pref_header_about">Infos</string>
+    <string name="pref_header_chat">Chat</string>
+    <string name="pref_header_notifications">Benachrichtigung</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_ringtone_silent">Lautlos</string>
+    <string name="pref_title_new_message_notifications">Neue
+Nachrichten</string>
+    <string name="pref_title_ringtone">Ton</string>
+    <string name="pref_title_vibrate">Vibration</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" in Zwischenablage kopiert."</string>
+    <string name="privacy_policy">Datenschutz</string>
+    <string name="privacy_policy_info"> Indem Sie auf die Schaltfläche
+unten klicken, stimmen Sie unseren %s-Bedingungen zu </string>
+    <string name="profile">Profil</string>
+    <string name="profile_photo">Profil Bild</string>
+    <string name="recent_updates">Letzte Aktualisierung</string>
+    <string name="recipients">Beiträge</string>
+    <string name="recording">Schprachaufnahme ..</string>
+    <string name="remove_member">Entnommen</string>
+    <string name="removed">Entfernt</string>
+    <string name="removing_member"> Mitglied wird entfernt..</string>
+    <string name="reply">Antwort</string>
+    <string name="restore_backup"> Backup wiederherstellen </string>
+    <string name="restore_default_wallpaper"> Standard-Hintergrundbild
+wiederherstellen </string>
+    <string name="revoke_link">Link Ablehnen</string>
+    <string name="roaming_title">Roaming</string>
+    <string name="s1">Bild speichern</string>
+    <string name="s2">Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?</string>
+    <string name="s3">Zustimmen</string>
+    <string name="s4">Ablehnen</string>
+    <string name="s5">Kalendertermin erstellen</string>
+    <string name="s6">Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?</string>
+    <string name="s7">Testanzeige</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="security">Sicherheit</string>
+    <string name="select">Wählen</string>
+    <string name="select_contact">Kontakt Auswähl</string>
+    <string name="select_numbers">Wählen Sie Zahlen</string>
+    <string name="select_this_location">Standort Auswählen</string>
+    <string name="send_link_via_fireapp">Link mit %s senden </string>
+    <string name="send_to_toolbar_title">Versendet ..</string>
+    <string name="sending_messages">Nachricht senden..</string>
+    <string name="sending_reply"> Eine Antwort senden </string>
+    <string name="set_title_for_group">Gruppen Titel Einstellen</string>
+    <string name="share">Teilen</string>
+    <string name="share_app_text"> Laden Sie %s jetzt herunter, um Status
+Messager Videoanrufe und mehr zu erhalten.</string>
+    <string name="share_invite_link"> Einladungslink teilen </string>
+    <string name="share_link">Link Teilen</string>
+    <string name="share_link_notice"> Jeder mit diesem Link kann dieser
+Gruppe beitreten </string>
+    <string name="sign_in_cancelled">Abgebrochen</string>
+    <string name="space_or_permissions_error_toast">Fehler :(, bitte
+überprüfenSie die Freigaben</string>
+    <string name="status">Status</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_hint"> Schreiben Sie einen Status </string>
+    <string name="status_is_empty">Kein Status Vorhanden</string>
+    <string name="status_uploaded"> Status erfolgreich hochgeladen
+</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tap_to_add_status">Statusupdate hinzufügen</string>
+    <string name="there_is_active_call_currently"> Es gibt bereits einen
+aktiven Anruf </string>
+    <string name="this_message_was_deleted">Diese Nachricht wurde
+gelöscht</string>
+    <string name="this_user_has_old_version"> Dieser Benutzer hat eine alte
+Version dieser App </string>
+    <string name="title_activity_backup_chat">Chat Speicher Aktiv</string>
+    <string name="title_activity_lockscreen">FullscreenActivity</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_my_status">Mein Status</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_activity_user_details">User Informationen</string>
+    <string name="title_activity_view_status">Status Ansehen</string>
+    <string name="today">Heute</string>
+    <string name="today_at">Heute</string>
+    <string name="too_many_verification_attempts"> Zu viele
+Bestätigungsversuche </string>
+    <string name="type_not_supported">datei wird nicht
+unterstützt!</string>
+    <string name="typing">Schreibt ..</string>
+    <string name="unavailable">Auser funktion</string>
+    <string name="unblock">Entblockieren</string>
+    <string name="unblock_contact">Kontakt entlocken</string>
+    <string name="unknown_error">Unerwarteter Fehler</string>
+    <string name="unknown_sign_in_response">keine Nachricht
+Vorhanden</string>
+    <string name="unlock_with_fingerprint"> Mit Fingerabdruck entsperren
+</string>
+    <string name="unmute_notifications">laut Modus aktiv</string>
+    <string name="unsupported_type"> Nicht unterstützter Typ, bitte
+aktualisieren Sie die App </string>
+    <string name="update">Aktualisieren</string>
+    <string name="update_app"> Bitte aktualisieren Sie die App auf die
+neueste Version </string>
+    <string name="uploading_status">Status wir Hochgeladen..</string>
+    <string name="user_already_added_to_broadcast"> Benutzer ist bereits
+Teilnehmer </string>
+    <string name="user_already_added_to_group">Teilnehmer Bereits in der
+Gruppe</string>
+    <string name="user_hungup">Anrufer Hat aufgelegt</string>
+    <string name="user_is_blocked">User wurde Blockiert</string>
+    <string name="user_this_location"> diesen Ort verwenden?</string>
+    <string name="username_is_empty">bitte fügen Sie einen Benutzer
+Namen</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"AUS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AN"</string>
+    <string name="verify">BESTÄTIGEN</string>
+    <string name="video">Video</string>
+    <string name="video_call">Vidioanruf</string>
+    <string name="video_call_confirmation"> Möchten Sie wirklich einen
+Videoanruf tätigen?</string>
+    <string name="video_call_hint"> Videoanruf</string>
+    <string name="video_length_is_too_long"> Videolänge ist zu lang
+</string>
+    <string name="videos">Vides</string>
+    <string name="view_contact">Kontakt Anzeigen</string>
+    <string name="viewed_statuses"> Angezeigte Updates </string>
+    <string name="voice_call">Sprachanruf</string>
+    <string name="voice_call_confirmation"> Möchten Sie wirklich einen
+Sprachanruf tätigen?</string>
+    <string name="voice_call_hint">Sprachanruf</string>
+    <string name="voice_message">Sprachnachricht</string>
+    <string name="voice_message_is_short_toast">Sprachaufnahme zu
+Kurz</string>
+    <string name="wallpaper">Hintergrund</string>
+    <string name="wifi_title">Wifi Nutzung</string>
+    <string name="write_your_message"> Schreibe deine Nachricht </string>
+    <string name="yes">JA</string>
+    <string name="yesterday">Gestern</string>
+    <string name="yesterday_at">Gestern</string>
+    <string name="you">du</string>
+    <string name="you_added">du hast hinzugefügt</string>
+    <string name="you_are_already_joined_the_group">sie sind bereits in der
+Gruppe!</string>
+    <string name="you_cant_send_messages_to_group">da sie nicht mehr in der
+gruppe sind können sie keine Nachrichten verschicken</string>
+    <string name="you_changed_group_preferences"> Sie haben die
+Gruppeneinstellungen geändert </string>
+    <string name="you_created_this_group"> Du hast diese Gruppe erstellt
+</string>
+    <string name="you_deleted_this_message"> hast diese nachricht
+gelöscht</string>
+    <string name="you_have_to_grant_permissions">Freigabe wird benötigt um
+diese App nutzen zu können</string>
+    <string name="you_left">verlassen</string>
+    <string name="you_removed">du hast entfernt </string>
+    <string name="your_status_will_disappear_note"> Ihre
+Statusaktualisierungen verschwinden nach 24 Stunden.</string>
+</resources>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_contact">Kontakt Anzeigen</string>
+    <string name="sign_in_cancelled">Abgebrochen</string>
+    <string name="unknown_error">Unerwarteter Fehler</string>
+    <string name="unknown_sign_in_response">keine Nachricht
+Vorhanden</string>
+    <string name="Settings">Einstellungen</string>
+    <string name="title_activity_user_details">User Informationen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="img_transition">img_transition</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="typing">Schreibt ..</string>
+    <string name="recording">Schprachaufnahme ..</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_header_notifications">Benachrichtigung</string>
+    <string name="pref_title_new_message_notifications">Neue
+Nachrichten</string>
+    <string name="pref_title_ringtone">Ton</string>
+    <string name="pref_ringtone_silent">Lautlos</string>
+    <string name="pref_title_vibrate">Vibration</string>
+    <string name="pref_header_chat">Chat</string>
+    <string name="pref_header_about">Infos</string>
+    <string name="camera_tip">zum Aufnehmen gedrückt Halten.</string>
+    <string name="audio_permission_error">Ton / Mikrofon freigabe
+fehlt</string>
+    <string name="space_or_permissions_error_toast">Fehler :(, bitte
+überprüfenSie die Freigaben</string>
+    <string name="voice_message_is_short_toast">Sprachaufnahme zu
+Kurz</string>
+    <string name="file_is_too_big">datei zu gross</string>
+    <string name="type_not_supported">datei wird nicht
+unterstützt!</string>
+    <string name="unblock_contact">Kontakt entlocken</string>
+    <string name="block_contact">Kontakt Blockieren</string>
+    <string name="unmute_notifications">laut Modus aktiv</string>
+    <string name="mute_notifications">Benachrichtigungen
+Deaktivieren</string>
+    <string name="loading">wird Hochgeladen..</string>
+    <string name="no_internet_connection">keine İnternet
+Verbindung</string>
+    <string name="copied_to_clipboard">kopiert im zweichen
+Speicher..</string>
+    <string name="image_video_not_found">Ausgewähltes Foto oder Video nicht
+Gefunden</string>
+    <string name="sending_messages">Nachricht senden..</string>
+    <string name="message_is_too_long">Nachricht ist zu lang..</string>
+    <string name="error_playing_this">Fehler beim abspielen der
+Datei</string>
+    <string name="cannot_open_this_file">Datei konnte nicht Geöffnet
+werden</string>
+    <string name="checking">Überprüfung....</string>
+    <string name="does_not_have_fireapp">%s nicht Beinhaltet </string>
+    <string name="user_is_blocked">User wurde Blockiert</string>
+    <string name="unblock">Entblockieren</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="not_contact_selected">Kontakt konnte nicht ausgewählt
+werden</string>
+    <string name="missing_permissions">fehlerhafte Freigaben</string>
+    <string name="ok">ok</string>
+    <string name="no_close_the_app">Nein App Schließen</string>
+    <string name="you_have_to_grant_permissions">Freigabe wird benötigt um
+diese App nutzen zu können</string>
+    <string name="confirmation">Bestätigung" </string>
+    <string name="delete_conversation_confirmation"> Möchten Sie diesen
+Chat wirklich löschen?</string>
+    <string name="yes">JA</string>
+    <string name="select_contact">Kontakt Auswähl</string>
+    <string name="profile_photo">Profil Bild</string>
+    <string name="image_changed">Bild wurde Ausgetauscht</string>
+    <string name="username_is_empty">bitte fügen Sie einen Benutzer
+Namen</string>
+    <string name="default_status">Heeey %s benutze ich !</string>
+    <string name="reply">Antwort</string>
+    <string name="choose_number">wählen Sie eine Nummer </string>
+    <string name="delete_messages_confirmation">Nachricht löschen?</string>
+    <string name="you">du</string>
+    <string name="enter_your_name">tragen Sie Ihren Namen ein.</string>
+    <string name="enter_your_status">geben Sie iIhren Status ein.</string>
+    <string name="status_is_empty">Kein Status Vorhanden</string>
+    <string name="no_media_summary">Keinen Medien</string>
+    <string name="photos">Fotoos</string>
+    <string name="videos">Vides</string>
+    <string name="files">Ordner</string>
+    <string name="no">Nein</string>
+    <string name="file">ordner</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="audio">Audio</string>
+    <string name="location">Standort</string>
+    <string name="contact">Kontakt</string>
+    <string name="media">Medien</string>
+    <string name="count">Menge</string>
+    <string name="about_and_phone_number">Kontakt Informationen</string>
+    <string name="delete">Löchen</string>
+    <string name="copy">Kopieren</string>
+    <string name="forward">Weiter</string>
+    <string name="share">Teilen</string>
+    <string name="add_to_contacts">ins Telefonbuch hinzufügen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="checking_contact">Kontakt Informationen</string>
+    <string name="online">Online</string>
+    <string name="could_not_get_audio_file">Audio konnte nicht empfangen
+werden </string>
+    <string name="could_not_get_this_image">Bild konnte nicht empfangen
+werden </string>
+    <string name="delete_media_from_phone">datei aus dem Telefon Löschen
+</string>
+    <string name="media_player_error">Datei nicht gefunden oder Berechtigungen
+fehlen</string>
+    <string name="select_numbers">Wählen Sie Zahlen</string>
+    <string name="contact_info">Kontaktinformationen</string>
+    <string name="not_found">Bulunamadı</string>
+    <string name="enter_is_sent_smmary">zum versenden Senden
+klicken</string>
+    <string name="enter_is_send_title">senden klicken um eine Nachricht zu
+versenden</string>
+    <string name="mobile_data_title">Mobile Daten Nutzung</string>
+    <string name="roaming_title">Roaming</string>
+    <string name="wifi_title">Wifi Nutzung</string>
+    <string name="media_auto_download_title">Datei Automatisch
+Herunterladen</string>
+    <string name="could_not_get_this_file">ordnernicht empfangen</string>
+    <string name="send_to_toolbar_title">Versendet ..</string>
+    <string name="item_deleted_from_storage">Dieser Artikel ist aus Ihrem Lager
+gelöscht</string>
+    <string name="app_info">%s ist eine Massager App, die Benutzer mit
+einer einfachen und großartigen Benutzeroberfläche verbindet </string>
+    <string name="feedback">Feedback</string>
+    <string name="choose_email_app">Email wählen </string>
+    <string name="error">Fehler</string>
+    <string name="new_group">Neue Gruppe</string>
+    <string name="add_participants">Benutzer Hinzufügen</string>
+    <string name="max_number_of_users_reached">Max. Anzahl der Benutzer
+erreicht</string>
+    <string name="group_title">Gruppen Titel</string>
+    <string name="set_title_for_group">Gruppen Titel Einstellen</string>
+    <string name="group_hint">Gruppen Name</string>
+    <string name="exit_group">Gruppe Verlassen</string>
+    <string name="participants">Teilnehmer</string>
+    <string name="delete_member"> Mitglied Löchen </string>
+    <string name="delete_member_message"> Möchten Sie dieses Mitglied
+wirklich löschen?</string>
+    <string name="removing_member"> Mitglied wird entfernt..</string>
+    <string name="member_removed"> Mitglied entfernt </string>
+    <string name="error_removing_member"> Mitglied eneklenen
+Fehlgeschlagen</string>
+    <string name="user_already_added_to_group">Teilnehmer Bereits in der
+Gruppe</string>
+    <string name="adding">hinzufügen..</string>
+    <string name="added_successfully">erfolgreich hinzugefügt</string>
+    <string name="group_name_changed">Gruppen Name wurde Verändert</string>
+    <string name="exiting_group">Gruppe wird Verlassen..</string>
+    <string name="you_cant_send_messages_to_group">da sie nicht mehr in der
+gruppe sind können sie keine Nachrichten verschicken</string>
+    <string name="no_longer_participant">sie sind nicht mehr in der
+Gruppe</string>
+    <string name="delete_group">Gruppe Löschen</string>
+    <string name="created_this_group">erstelle die Gruppe</string>
+    <string name="removed">Entfernt</string>
+    <string name="is_now_an_admin">ist jetzt ein Admin</string>
+    <string name="exit_the_group">Gruppe Verlassen</string>
+    <string name="added">Hinzufügen</string>
+    <string name="group_info">Gruppen Informationen</string>
+    <string name="are_now_an_admin">ist jetzt ein Admin</string>
+    <string name="at">bei</string>
+    <string name="created_by">erstellt von</string>
+    <string name="you_deleted_this_message"> hast diese nachricht
+gelöscht</string>
+    <string name="this_message_was_deleted">Diese Nachricht wurde
+gelöscht</string>
+    <string name="delete_for_me">für mich Löchen </string>
+    <string name="delete_for_everyone">für alle Löchen</string>
+    <string name="message_member">Nachricht</string>
+    <string name="make_group_admin">Gruppen Admin Rechte Geben </string>
+    <string name="dismiss_admin">Admin Rechte Entnehmen</string>
+    <string name="remove_member">Entnommen</string>
+    <string name="only_admins_can_post"> Nur Admins können posten </string>
+    <string name="are_no_longer_an_admin">ist kein Admin mehr</string>
+    <string name="is_no_longer_an_admin">hat keine Admin Rechte
+mdhr</string>
+    <string name="you_added">du hast hinzugefügt</string>
+    <string name="you_left">verlassen</string>
+    <string name="left_group">Gruppe Links</string>
+    <string name="you_removed">du hast entfernt </string>
+    <string name="you_created_this_group"> Du hast diese Gruppe erstellt
+</string>
+    <string name="you_changed_group_preferences"> Sie haben die
+Gruppeneinstellungen geändert </string>
+    <string name="changed_group_preferences"> Gruppen Informationen
+geändert </string>
+    <string name="this_user_has_old_version"> Dieser Benutzer hat eine alte
+Version dieser App </string>
+    <string name="exit_group_confirmation_dialog"> Möchten Sie diese Gruppe
+wirklich verlassen?</string>
+    <string name="delete_group_confirmation"> Möchten Sie diesen Chat
+wirklich löschen? </string>
+    <string name="playing_audio">Audio Abspielen</string>
+    <string name="chats">Chats</string>
+    <string name="status">Status</string>
+    <string name="calls">Anrufe</string>
+    <string name="recent_updates">Letzte Aktualisierung</string>
+    <string name="my_status">Mein Status</string>
+    <string name="tap_to_add_status">Statusupdate hinzufügen</string>
+    <string name="title_activity_view_status">Status Ansehen</string>
+    <string name="dummy_button">Fehlerhafter Button</string>
+    <string name="dummy_content">Fehlerhafter Kontakt </string>
+    <string name="title_activity_my_status">Mein Status</string>
+    <string name="your_status_will_disappear_note"> Ihre
+Statusaktualisierungen verschwinden nach 24 Stunden.</string>
+    <string name="deleting">wird gelöscht ..</string>
+    <string name="delete_status_confirmation"> Möchten Sie diesen Status
+wirklich löschen?</string>
+    <string name="uploading_status">Status wir Hochgeladen..</string>
+    <string name="voice_call_hint">Sprachanruf</string>
+    <string name="video_call_hint"> Videoanruf</string>
+    <string name="connecting">Verbinden</string>
+    <string name="fireapp_video_call">%s Video Unterhaltung</string>
+    <string name="fireapp_voice_call">%s Sprachanruf</string>
+    <string name="call_ended">Anruf Beendet</string>
+    <string name="call_denied">Abgelehnt</string>
+    <string name="call_failure">Verbindung Fehlgeschlagen </string>
+    <string name="call_cancelled">Anruf abgebrochen</string>
+    <string name="user_hungup">Anrufer Hat aufgelegt</string>
+    <string name="call_no_answer">Unbeantwortet</string>
+    <string name="voice_call_confirmation"> Möchten Sie wirklich einen
+Sprachanruf tätigen?</string>
+    <string name="video_call_confirmation"> Möchten Sie wirklich einen
+Videoanruf tätigen?</string>
+    <string name="error_calling"> Beim Tätigen des Anrufs ist ein Fehler
+aufgetreten </string>
+    <string name="missed_call_notification"> Verpasster Anruf:</string>
+    <string name="answer">Annehmen</string>
+    <string name="decline"> Ablehnen </string>
+    <string name="incoming_video_call"> Eingehender Videoanruf </string>
+    <string name="incoming_voice_call"> Eingehender Sprachanruf </string>
+    <string name="hangup">Auflegen</string>
+    <string name="video_call">Vidioanruf</string>
+    <string name="voice_call">Sprachanruf</string>
+    <string name="delete_calls_confirmation"> Ausgewählte Anrufe
+löschen?</string>
+    <string name="viewed_statuses"> Angezeigte Updates </string>
+    <string name="video_length_is_too_long"> Videolänge ist zu lang
+</string>
+    <string name="there_is_active_call_currently"> Es gibt bereits einen
+aktiven Anruf </string>
+    <string name="status_uploaded"> Status erfolgreich hochgeladen
+</string>
+    <string name="error_uploading_status"> Fehler beim Laden des Status
+</string>
+    <string name="invite">Einladen</string>
+    <string name="share_app_text"> Laden Sie %s jetzt herunter, um Status
+Messager Videoanrufe und mehr zu erhalten.</string>
+    <string name="no_contacts">Kontakt %s existiert nicht </string>
+    <string name="minutes_ago">Minuten zuvor</string>
+    <string name="hours_ago">Stunden zuvor</string>
+    <string name="yesterday_at">Gestern</string>
+    <string name="today_at">Heute</string>
+    <string name="days_ago">Tage zuvor</string>
+    <string name="just_now">jetzt</string>
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+    <string name="now">Jetzt</string>
+    <string name="clear_chat">Verlauf löschen</string>
+    <string name="clear_chat_message"> Möchten Sie wirklich alle
+Nachrichten in diesem Chat löschen?</string>
+    <string name="chat_settings">Chat Einstellungen</string>
+    <string name="wallpaper">Hintergrund</string>
+    <string name="failed_to_load_wallpaper"> Hintergrundbild konnte nicht
+geladen werden </string>
+    <string name="mark_as_read"> als gelesen markieren </string>
+    <string name="choose_wallpaper"> Hintergrundbild auswählen </string>
+    <string name="restore_default_wallpaper"> Standard-Hintergrundbild
+wiederherstellen </string>
+    <string name="unsupported_type"> Nicht unterstützter Typ, bitte
+aktualisieren Sie die App </string>
+    <string name="write_your_message"> Schreibe deine Nachricht </string>
+    <string name="chat_backup"> Chat-Backup </string>
+    <string name="title_activity_backup_chat">Chat Speicher Aktiv</string>
+    <string name="last_backup"> Letzte Sicherung </string>
+    <string name="backup">Sicherung</string>
+    <string name="backing_up">backup wird erstellt..</string>
+    <string name="backing_up_message"> Nachricht wird gesichert, bitte
+beenden Sie die App nicht </string>
+    <string name="backup_success"> Backup-war Erfolgreich </string>
+    <string name="backup_failed"> Sicherung fehlgeschlagen </string>
+    <string name="restore_backup"> Backup wiederherstellen </string>
+    <string name="error_restoring_backup"> Fehler beim Wiederherstellen der
+Sicherung </string>
+    <string name="backup_file_mismatched"> Die Sicherungsdatei stimmt nicht
+mit Ihrer Telefonnummer überein!</string>
+    <string name="invalid_group_link"> ungültiger Gruppenlink </string>
+    <string name="share_invite_link"> Einladungslink teilen </string>
+    <string name="share_link_notice"> Jeder mit diesem Link kann dieser
+Gruppe beitreten </string>
+    <string name="send_link_via_fireapp">Link mit %s senden </string>
+    <string name="copy_link">link kopieren</string>
+    <string name="share_link">Link Teilen</string>
+    <string name="revoke_link">Link Ablehnen</string>
+    <string name="fetching_group">wird der Gruppe Hinzugefügt..</string>
+    <string name="join_group">Gruppe Beitreten</string>
+    <string name="you_are_already_joined_the_group">sie sind bereits in der
+Gruppe!</string>
+    <string name="banned_from_group">sie wurden soeben aus der Gruppe
+Gekickt</string>
+    <string name="joined_via_invite_link"> per Einladungslink beigetreten
+</string>
+    <string name="new_broadcast">Neuer Beitrag</string>
+    <string name="broadcast_name">Beitrags Name</string>
+    <string name="broadcast_list_info">Beitrag Informationen</string>
+    <string name="created"> Bearbeitet </string>
+    <string name="recipients">Beiträge</string>
+    <string name="edit_recipients">Beitrag Bearbeiten</string>
+    <string name="delete_broadcast_list">Beitrag Löchen</string>
+    <string name="add_recipients">Beitrag Hinzufügen</string>
+    <string name="user_already_added_to_broadcast"> Benutzer ist bereits
+Teilnehmer </string>
+    <string name="delete_broadcast_confirmation"> Lösche diesen
+Beitrag?</string>
+    <string name="no_link_gnerated"> Verbindung nicht hergestellt </string>
+    <string name="select_this_location">Standort Auswählen</string>
+    <string name="nearby_places">in der Nähe</string>
+    <string name="user_this_location"> diesen Ort verwenden?</string>
+    <string name="change_location">Ort Ändern</string>
+    <string name="select">Wählen</string>
+    <string name="message">Gesendet</string>
+    <string name="add_contact">Kontakt Hinzufügen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="photo">Foto</string>
+    <string name="video">Video</string>
+    <string name="voice_message">Sprachnachricht</string>
+    <string name="do_not_show_again"> Diese Nachricht nicht mehr anzeigen
+</string>
+    <string name="ignore_battery_dialog_title"> Batterieoptimierung
+ignorieren </string>
+    <string name="ignore_battery_dialog_message"> Um sicherzustellen, dass
+alle Nachrichten korrekt zugestellt werden, müssen Sie die
+Batterieoptimierung deaktivieren. \\n Nachdem Sie auf OK geklickt haben,
+wählen Sie %s und klicken Sie auf Nicht optimieren.</string>
+    <string name="ignore_battery_summary"> Sie müssen die
+Batterieoptimierung deaktivieren, um sicherzustellen, dass alle Nachrichten
+korrekt zugestellt werden </string>
+    <string name="status_hint"> Schreiben Sie einen Status </string>
+    <string name="call_type">%s Anrufen</string>
+    <string name="privacy_policy_info"> Indem Sie auf die Schaltfläche
+unten klicken, stimmen Sie unseren %s-Bedingungen zu </string>
+    <string name="privacy_policy">Datenschutz</string>
+    <string name="agree_and_continue"> Mitmachen und weitermachen </string>
+    <string name="sending_reply"> Eine Antwort senden </string>
+    <string name="update_app"> Bitte aktualisieren Sie die App auf die
+neueste Version </string>
+    <string name="update">Aktualisieren</string>
+    <string name="hello_blank_fragment">Hallo..</string>
+    <string name="phone_auth_info"> Sie erhalten einen 6-stelligen Code zur
+Überprüfung. \NStandards können zutreffen </string>
+    <string name="verify">BESTÄTIGEN</string>
+    <string name="enter_phone_confirmation_message"> Wir senden Ihnen eine
+SMS an %s, um Ihre Nummer zu bestätigen. </string>
+    <string name="enter_correct_number"> Bitte geben Sie eine korrekte Zahl
+ein </string>
+    <string name="otp_verification">OTP Verifizierung</string>
+    <string name="enter_the_otp_sent_to">Geben Sie das an %s gesendete OTP
+ein </string>
+    <string name="invalid_verification_code"> Bestätigungscode ist ungültig
+</string>
+    <string name="invalid_phone_number"> Ungültige Telefonnummer </string>
+    <string name="too_many_verification_attempts"> Zu viele
+Bestätigungsversuche </string>
+    <string name="cancel_verification_confirmation_message"> Möchten Sie
+die Anfrage zur Bestätigung Ihrer Telefonnummer wirklich
+abbrechen?</string>
+    <string name="enter_your_phone_number"> Bitte geben sie ihre
+Telefonnummer ein </string>
+    <string name="title_activity_lockscreen">FullscreenActivity</string>
+    <string name="locked">Gesperrt</string>
+    <string name="face">Gesicht</string>
+    <string name="fingerprint">Fingerabdruck</string>
+    <string name="iris">İris</string>
+    <string name="biometric">Biometrisch</string>
+    <string name="unavailable">Auser funktion</string>
+    <string name="biometrics_not_available"> Biometrie ist auf diesem Gerät
+nicht verfügbar!</string>
+    <string name="authenticate_with">Authentifizierung mit %s </string>
+    <string name="security">Sicherheit</string>
+    <string name="unlock_with_fingerprint"> Mit Fingerabdruck entsperren
+</string>
+    <string name="lock_after"> dann sperren </string>
+    <string name="immediately">Sofort</string>
+    <string name="after_1_minute">1 Minute Vergangen</string>
+    <string name="after_5_minutes">5 Minute Vergangen </string>
+    <string name="after_30_minutes">30 Minute Vergangen </string>
+    <string name="profile">Profil</string>
+    <string name="notifications">Benachrichtigung</string>
+    <string name="chat">Chat</string>
+    <string name="about">Info</string>
+    <string name="could_not_add_fingerprint"> Fingerabdruck konnte nicht
+hinzugefügt werden </string>
+</resources>
