@@ -13,6 +13,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee7438ff9ee3b1e5b6d01f6c01ca5f30/transformed/jetified-circularstatusview-1.0.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ee7438ff9ee3b1e5b6d01f6c01ca5f30/transformed/jetified-circularstatusview-1.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee7438ff9ee3b1e5b6d01f6c01ca5f30/transformed/jetified-circularstatusview-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a2d52a0736c1fda0bf17c1470b3165d5/transformed/jetified-circularstatusview-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2d52a0736c1fda0bf17c1470b3165d5/transformed/jetified-circularstatusview-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a2d52a0736c1fda0bf17c1470b3165d5/transformed/jetified-circularstatusview-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devlomi/circularstatusview/1.0.1/ce9dede5c65f43a76dd67b4f6c6da705e678f256/circularstatusview-1.0.1-javadoc.jar!/" />

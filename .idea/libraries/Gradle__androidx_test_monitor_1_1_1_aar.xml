@@ -5,6 +5,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/137f8860e6c477c7b612e7a66be17566/transformed/monitor-1.1.1/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/137f8860e6c477c7b612e7a66be17566/transformed/monitor-1.1.1/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/137f8860e6c477c7b612e7a66be17566/transformed/monitor-1.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5bfc6787c786eec1dbc10aebbd74f2be/transformed/monitor-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5bfc6787c786eec1dbc10aebbd74f2be/transformed/monitor-1.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5bfc6787c786eec1dbc10aebbd74f2be/transformed/monitor-1.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.1.1/3d1f748b5f88e6fedbc17128a6f1d24af649d64/monitor-1.1.1-javadoc.jar!/" />

@@ -4,6 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a00b39bd378ab32cc1459ca39bf89603/transformed/jetified-play-services-base-17.5.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a00b39bd378ab32cc1459ca39bf89603/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a00b39bd378ab32cc1459ca39bf89603/transformed/jetified-play-services-base-17.5.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5140cc3438eeb8a5a06b4fc7d4af1d3a/transformed/jetified-play-services-base-17.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5140cc3438eeb8a5a06b4fc7d4af1d3a/transformed/jetified-play-services-base-17.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5140cc3438eeb8a5a06b4fc7d4af1d3a/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-base/17.5.0/359ff792f8318b3b26916e43d192e2ff01fa45fb/play-services-base-17.5.0-javadoc.jar!/" />
