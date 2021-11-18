@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ozodrukh:CircularReveal:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f97db19e1d3e9c46621d03ddaa3f6b4/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92d8603b730622de623f2a8e603abbb1/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d28ce6fc17224fa0056e3374385fbf32/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c411607cb3468e421729ed0590d676c/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2adbf134335dc52f14868578f209f20a/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e4dcb10cbc5d73017e02837c2bfe171/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c58bb634d5d597b3c5d86ac16640cd6/transformed/jetified-CircularReveal-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c58bb634d5d597b3c5d86ac16640cd6/transformed/jetified-CircularReveal-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6c58bb634d5d597b3c5d86ac16640cd6/transformed/jetified-CircularReveal-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ozodrukh/CircularReveal/1.1.0/50ac035b684f8ea49c1c8f623b48abe897307ba2/CircularReveal-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

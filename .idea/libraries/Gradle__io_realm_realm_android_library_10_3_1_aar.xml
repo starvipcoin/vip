@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library:10.3.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d28281fdf14da1e983adbee929f2721/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e33bf7cfb90142d1bd5f508850851615/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb99f8dae37ac82c64b94e580b28fd36/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d5434dd41db0e7a98b691202e2614dcc/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d4f0d75079b92d993cb3fbb5843c7be/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8cc059f4e5f5c6c2127f3ceb732e6b0/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb6d73849d3c0bc94e3f6ee306cbcaae/transformed/jetified-realm-android-library-10.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb6d73849d3c0bc94e3f6ee306cbcaae/transformed/jetified-realm-android-library-10.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bb6d73849d3c0bc94e3f6ee306cbcaae/transformed/jetified-realm-android-library-10.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/10.3.1/592463ee705a7fdea7a913fbde3228d165048a20/realm-android-library-10.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/10.3.1/c3c563cf17f66be9908b7c4e00cf454fd8ebcc72/realm-android-library-10.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

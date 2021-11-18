@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: ca.barrenechea.header-decor:header-decor:0.2.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872739170ce48741a244cf1cb16e94d2/jetified-header-decor-0.2.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872739170ce48741a244cf1cb16e94d2/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872739170ce48741a244cf1cb16e94d2/jetified-header-decor-0.2.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d074d3c118aac42acec2d05251e8260/jetified-header-decor-0.2.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d074d3c118aac42acec2d05251e8260/jetified-header-decor-0.2.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d074d3c118aac42acec2d05251e8260/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a066085ba481af5d2f422bd773b153a6/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e21e2a26518a524c502c785f7a8b1a2d/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed6131139e06a1886361a298e9f56531/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e5772847e4938064849081d43f0902f/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b335223b2e5b2efc986272f23ff6a02a/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3b076c3c0f797874fcb457c5094f879/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3b076c3c0f797874fcb457c5094f879/transformed/jetified-header-decor-0.2.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3b076c3c0f797874fcb457c5094f879/transformed/jetified-header-decor-0.2.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/965d47bba4ce413e48dd17c5df1028a8/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f937bfa1407757b96049210deacad7e/transformed/jetified-header-decor-0.2.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f937bfa1407757b96049210deacad7e/transformed/jetified-header-decor-0.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f937bfa1407757b96049210deacad7e/transformed/jetified-header-decor-0.2.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.barrenechea.header-decor/header-decor/0.2.8/2293e8678954564d143ef574efa187366cc40b77/header-decor-0.2.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.barrenechea.header-decor/header-decor/0.2.8/1d39f177e23f94b894098193901ffe691ce689c3/header-decor-0.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

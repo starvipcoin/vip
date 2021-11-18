@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/btn_rounded_bg.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/ic_photo_camera_white.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/ic_search.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/rounded_bg_chat.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/rounded_bg_grey.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/drawable/rounded_corner_orange.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/activity_chat.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/activity_new_chat.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/activity_splash.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/content_chat.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/fragment_chats.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/fragment_enter_phone_number.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/fragment_verify_phone.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/privacy_policy_dialog.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/privacy_policy_fragment.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_call.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_chats.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_contact_details.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_contact_picker.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_day.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_forward.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_gallery.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_group_event.xml" value="0.75" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_group_participant.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_media.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_my_status.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_new_call.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_new_group_selected_user.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_not_supported.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_parital_group_user.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_phone_number.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_place.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_seen_by.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_sent_contact.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_sent_deleted_message.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_sent_file.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_status.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_status_header.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/row_user.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/seen_by_bottomsheet.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/layout/typing_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/menu/menu_action_chat.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/app/src/main/res/menu/menu_main.xml" value="0.203125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/vipapp/cameraView/src/main/res/drawable/ic_camera.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

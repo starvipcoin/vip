@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.systemuihelper:library:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/560f38baed3df0cc592aeb3a9b4ee9e6/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7e03720cf9343ea9cfc82d5577bb42e/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e756606c118a477fc646642caf340dfc/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f1e343139ad86cf0f7e030d90ec9d9c4/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/320f04ad393ff8c333f3c6750f09cd51/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbb143a2262fa45475cac68a06948121/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f10f20ea18375efa048361d81c2bff8d/transformed/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f10f20ea18375efa048361d81c2bff8d/transformed/jetified-library-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f10f20ea18375efa048361d81c2bff8d/transformed/jetified-library-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.systemuihelper/library/1.0.0/7746ae28d27d5a5e86068883e0b9d28c689a78d1/library-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.systemuihelper/library/1.0.0/3574a71bc50fb135015dd0c3b4ce562b2f2952f8/library-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
