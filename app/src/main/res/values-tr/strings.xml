@@ -165,7 +165,7 @@
     <string name="tap_to_add_status">Durum güncellemesi eklemek için hafifçe vurun</string>
     <string name="title_activity_view_status">ViewStatusActivity</string>
     <string name="dummy_button">Sahte Düğme</string>
-    <string name="dummy_content">YAPAY \ nCONTENT</string>
+    <string name="dummy_content">Sahte \nİçerik</string>
     <string name="title_activity_my_status">Durumum</string>
     <string name="your_status_will_disappear_note">Durum güncellemeleriniz 24 saat sonra kaybolacaktır.</string>
     <string name="deleting">Siliniyor ...</string>
