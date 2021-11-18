@@ -3,8 +3,6 @@
 buildscript { 
     ext.kotlin_version = '1.6.0-RC2'
 
-    /// test
-
     repositories {
         google()
         jcenter()

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.CanHub:Android-Image-Cropper:2.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7ef514d7fdcd49a7bcfc04fcbec1508c/transformed/jetified-Android-Image-Cropper-2.1.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ef514d7fdcd49a7bcfc04fcbec1508c/transformed/jetified-Android-Image-Cropper-2.1.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ef514d7fdcd49a7bcfc04fcbec1508c/transformed/jetified-Android-Image-Cropper-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3598f9ca8f2eb1f639820005591b579f/transformed/jetified-Android-Image-Cropper-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3598f9ca8f2eb1f639820005591b579f/transformed/jetified-Android-Image-Cropper-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3598f9ca8f2eb1f639820005591b579f/transformed/jetified-Android-Image-Cropper-2.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

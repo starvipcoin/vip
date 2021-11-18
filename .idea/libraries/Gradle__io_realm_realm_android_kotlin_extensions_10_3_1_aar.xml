@@ -7,9 +7,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e9098da88bc376ee6040a884a57c96c1/transformed/jetified-realm-android-kotlin-extensions-10.3.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5384964aea72008fbdc1c247e726d843/transformed/jetified-realm-android-kotlin-extensions-10.3.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1a08f3cf701e964f1eb9a76cfb45a371/transformed/jetified-realm-android-kotlin-extensions-10.3.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/882c71a931c3403e2535a877a98fca1f/transformed/jetified-realm-android-kotlin-extensions-10.3.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/882c71a931c3403e2535a877a98fca1f/transformed/jetified-realm-android-kotlin-extensions-10.3.1/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/882c71a931c3403e2535a877a98fca1f/transformed/jetified-realm-android-kotlin-extensions-10.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4fd43ba7f956a4537454ad91b3190703/transformed/jetified-realm-android-kotlin-extensions-10.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4fd43ba7f956a4537454ad91b3190703/transformed/jetified-realm-android-kotlin-extensions-10.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4fd43ba7f956a4537454ad91b3190703/transformed/jetified-realm-android-kotlin-extensions-10.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-kotlin-extensions/10.3.1/3e0b05614e6e2d91c8fabc459d9136d9fc5e37b4/realm-android-kotlin-extensions-10.3.1-javadoc.jar!/" />

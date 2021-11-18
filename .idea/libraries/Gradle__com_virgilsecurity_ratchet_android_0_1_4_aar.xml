@@ -8,8 +8,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/913907e3bcdd5ec5bdddddf13460ff36/transformed/jetified-ratchet-android-0.1.4/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/39e2e1193ad2489b448bdf88e31a792b/transformed/jetified-ratchet-android-0.1.4/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce5e1e774b7b52dfd6e1f03a0dcf1e46/transformed/jetified-ratchet-android-0.1.4/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ce5e1e774b7b52dfd6e1f03a0dcf1e46/transformed/jetified-ratchet-android-0.1.4/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ce5e1e774b7b52dfd6e1f03a0dcf1e46/transformed/jetified-ratchet-android-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e8e66eea9226b3f7f458a5535c95427a/transformed/jetified-ratchet-android-0.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e8e66eea9226b3f7f458a5535c95427a/transformed/jetified-ratchet-android-0.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e8e66eea9226b3f7f458a5535c95427a/transformed/jetified-ratchet-android-0.1.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.virgilsecurity/ratchet-android/0.1.4/d69f60fd64b6dd43047d11ff9a57498d6956207c/ratchet-android-0.1.4-javadoc.jar!/" />
