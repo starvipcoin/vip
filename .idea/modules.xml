@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vipapp2.iml" filepath="$PROJECT_DIR$/.idea/modules/vipapp2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vipapp2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vipapp2.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/vipapp2.cameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/vipapp2.cameraView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/vipapp2.imageeditengine.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/vipapp2.imageeditengine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/vipapp2.stories-progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/vipapp2.stories-progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip.iml" filepath="$PROJECT_DIR$/.idea/modules/vip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vip.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vip.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/vip.cameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/vip.cameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/vip.imageeditengine.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/vip.imageeditengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/vip.stories-progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/vip.stories-progress-view.iml" />
     </modules>
   </component>
 </project>
