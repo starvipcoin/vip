@@ -33,7 +33,7 @@
     <string name="loading">Yükleniyor..</string>
     <string name="no_internet_connection">İnternet bağlantısı yok</string>
     <string name="copied_to_clipboard">Panoya kopyalandı...</string>
-    <string name="image_video_not_found">SEÇİLMİŞ GÖRÜNTÜ / Video Bulunamadı</string>
+    <string name="image_video_not_found">Seçilen resim/video Bulunamadı</string>
     <string name="sending_messages">Mesaj gönderme...</string>
     <string name="message_is_too_long">Mesajınız çok uzun lütfen azaltmaya çalışın</string>
     <string name="error_playing_this">Bunu oynatma hatası :(</string>
