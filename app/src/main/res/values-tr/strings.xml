@@ -25,7 +25,7 @@
     <string name="space_or_permissions_error_toast">Hata :(, Lütfen Alanı veya İzinleri kontrol edin</string>
     <string name="voice_message_is_short_toast">Sesli mesaj çok kısa</string>
     <string name="file_is_too_big">Dosya çok büyük</string>
-    <string name="type_not_supported">Tip desteklenmiyor!</string>
+    <string name="type_not_supported">Dosya türü desteklenmiyor!</string>
     <string name="unblock_contact">Kişinin engellemesini kaldır</string>
     <string name="block_contact">Kişiyi engelle</string>
     <string name="unmute_notifications">Sesi Açma Bildirimleri</string>
