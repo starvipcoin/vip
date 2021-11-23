@@ -311,4 +311,5 @@
     <string name="chat">دردشة</string>
     <string name="about">حول</string>
     <string name="could_not_add_fingerprint">تعذرت إضافة بصمة الإصبع</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
 </resources>

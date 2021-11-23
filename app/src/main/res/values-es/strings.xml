@@ -311,4 +311,5 @@
     <string name="chat">Charla</string>
     <string name="about">Acerca de</string>
     <string name="could_not_add_fingerprint">No se pudo agregar la huella digital</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
 </resources>

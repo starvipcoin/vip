@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:duration_max="30000"
+        app:iconLeft="@drawable/ic_keyboard_arrow_left_white"
         app:iconMargin="20dp"
         app:iconSize="30dp" />
 

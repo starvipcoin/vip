@@ -311,4 +311,5 @@
     <string name="chat">चैट</string>
     <string name="about">के बारे में</string>
     <string name="could_not_add_fingerprint">फ़िंगरप्रिंट नहीं जोड़ा जा सका</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
 </resources>

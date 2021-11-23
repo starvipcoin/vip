@@ -3,6 +3,7 @@ package com.devlomi.fireapp.activities.authentication
 import android.app.AlertDialog
 import android.content.Context
 import android.os.Bundle
+import android.telephony.PhoneNumberFormattingTextWatcher
 import android.telephony.PhoneNumberUtils
 import android.text.TextUtils
 import android.util.Log
@@ -36,15 +37,18 @@ class EnterPhoneNumberFragment : BaseAuthFragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        cp.setDefaultCountryUsingNameCode("US")
+        cp.setDefaultCountryUsingNameCode("TR")
+        cp.setDefaultCountryUsingPhoneCode(90)
         cp.detectSIMCountry(true)
 
 
-
+        et_number.addTextChangedListener(PhoneNumberFormattingTextWatcher())
 
         btn_verify.setOnClickListener {
             val number = et_number.text.toString().trim()
             val fullNumber = cp.selectedCountryCodeWithPlus + number
+
+
 
 
             //dismiss keyboard

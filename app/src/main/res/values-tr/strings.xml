@@ -36,7 +36,7 @@
     <string name="image_video_not_found">Seçilen resim/video Bulunamadı</string>
     <string name="sending_messages">Mesaj gönderme...</string>
     <string name="message_is_too_long">Mesajınız çok uzun lütfen azaltmaya çalışın</string>
-    <string name="error_playing_this">Bunu oynatma hatası :(</string>
+    <string name="error_playing_this">Oynatma hatası</string>
     <string name="cannot_open_this_file">Bu dosya açılamıyor</string>
     <string name="checking">Kontrol etme..</string>
     <string name="does_not_have_fireapp">%s içermiyor</string>
@@ -274,12 +274,12 @@
     <string name="call_type">%s Çağrı</string>
     <string name="privacy_policy_info">Aşağıdaki düğmeyi tıklayarak %s koşulumuzu kabul etmiş olursunuz</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
-    <string name="agree_and_continue">Katıl ve devam et</string>
+    <string name="agree_and_continue">Kabul et ve devam et</string>
     <string name="sending_reply">Yanıt Gönderme</string>
     <string name="update_app">Lütfen uygulamayı en son sürüme güncelleyin</string>
     <string name="update">GÜNCELLEME</string>
     <string name="hello_blank_fragment">Merhaba boş parça</string>
-    <string name="phone_auth_info">Doğrulamak için 6 haneli bir kod alacaksınız. \ NStandartlar geçerli olabilir</string>
+    <string name="phone_auth_info">Doğrulamak için 6 haneli bir kod alacaksınız.\nStandartlar geçerli olabilir</string>
     <string name="verify">DOĞRULAYIN</string>
     <string name="enter_phone_confirmation_message">numaranızı doğrulamak için size %s adresine bir SMS mesajı göndereceğiz</string>
     <string name="enter_correct_number">Lütfen doğru bir sayı girin</string>
@@ -311,4 +311,5 @@
     <string name="chat">Sohbet</string>
     <string name="about">hakkında</string>
     <string name="could_not_add_fingerprint">Parmak İzi eklenemedi</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
 </resources>

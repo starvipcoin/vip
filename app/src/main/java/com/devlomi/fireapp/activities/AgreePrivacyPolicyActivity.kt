@@ -30,7 +30,7 @@ class AgreePrivacyPolicyActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_agree_privacy_policy)
 
-        btn_agree.setOnClickListener {
+        privacytxt.setOnClickListener {
 
             showContactsConfirmationDialog()
 
