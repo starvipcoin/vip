@@ -47,6 +47,7 @@
     <string name="after_30_minutes">30 Minute Vergangen </string>
     <string name="after_5_minutes">5 Minute Vergangen </string>
     <string name="agree_and_continue"> Mitmachen und weitermachen </string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="album_name_all">Alle Medien</string>
     <string name="answer">Annehmen</string>
     <string name="app_info">%s ist eine Massager App, die Benutzer mit

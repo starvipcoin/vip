@@ -153,6 +153,9 @@ class MainActivity : BaseActivity(), FabRotationAnimation.RotateAnimationListene
                 when (position) {
                     0 -> {
                         startCamera()
+
+
+
                     }
                     1 -> {
                         getFragmentByPosition(1)?.let { fragment ->

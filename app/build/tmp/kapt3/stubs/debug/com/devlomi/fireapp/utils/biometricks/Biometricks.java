@@ -6,7 +6,7 @@ import java.lang.System;
  * Biometricks is the type of Biometric Authentication that
  * is available for this device, represented as a sealed class.
  */
-@kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\u0016\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\b6\u0018\u0000 \u00042\u00020\u0001:\u0003\u0003\u0004\u0005B\u0007\b\u0004\u00a2\u0006\u0002\u0010\u0002\u0082\u0001\u0002\u0006\u0007\u00a8\u0006\b"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "", "()V", "Available", "Companion", "None", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$None;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "app_debug"})
+@kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\u0016\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\b6\u0018\u0000 \u00042\u00020\u0001:\u0003\u0003\u0004\u0005B\u0007\b\u0004\u00a2\u0006\u0002\u0010\u0002\u0082\u0001\u0002\u0006\u0007\u00a8\u0006\b"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "", "()V", "Available", "Companion", "None", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$None;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "app_debug"})
 public abstract class Biometricks {
     @org.jetbrains.annotations.NotNull()
     public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Companion Companion = null;
@@ -23,7 +23,7 @@ public abstract class Biometricks {
     /**
      * The device has no support for Biometric Authentication
      */
-    @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$None;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "()V", "app_debug"})
+    @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$None;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "()V", "app_debug"})
     public static final class None extends com.devlomi.fireapp.utils.biometricks.Biometricks {
         @org.jetbrains.annotations.NotNull()
         public static final com.devlomi.fireapp.utils.biometricks.Biometricks.None INSTANCE = null;
@@ -36,7 +36,7 @@ public abstract class Biometricks {
     /**
      * The device has support for Biometric Authentication
      */
-    @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\"\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0006\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\b6\u0018\u00002\u00020\u0001:\u0005\u0003\u0004\u0005\u0006\u0007B\u0007\b\u0004\u00a2\u0006\u0002\u0010\u0002\u0082\u0001\u0005\b\t\n\u000b\f\u00a8\u0006\r"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "()V", "Face", "Fingerprint", "Iris", "Multiple", "Unknown", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Face;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Fingerprint;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Iris;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Multiple;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Unknown;", "app_debug"})
+    @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\"\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0006\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\b6\u0018\u00002\u00020\u0001:\u0005\u0003\u0004\u0005\u0006\u0007B\u0007\b\u0004\u00a2\u0006\u0002\u0010\u0002\u0082\u0001\u0005\b\t\n\u000b\f\u00a8\u0006\r"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "()V", "Face", "Fingerprint", "Iris", "Multiple", "Unknown", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Face;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Fingerprint;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Iris;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Multiple;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Unknown;", "app_debug"})
     public static abstract class Available extends com.devlomi.fireapp.utils.biometricks.Biometricks {
         
         private Available() {
@@ -46,7 +46,7 @@ public abstract class Biometricks {
         /**
          * Device has Face Unlock ONLY
          */
-        @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Face;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
+        @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Face;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
         public static final class Face extends com.devlomi.fireapp.utils.biometricks.Biometricks.Available {
             @org.jetbrains.annotations.NotNull()
             public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Available.Face INSTANCE = null;
@@ -59,7 +59,7 @@ public abstract class Biometricks {
         /**
          * Device has Fingerprint ONLY
          */
-        @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Fingerprint;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
+        @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Fingerprint;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
         public static final class Fingerprint extends com.devlomi.fireapp.utils.biometricks.Biometricks.Available {
             @org.jetbrains.annotations.NotNull()
             public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Available.Fingerprint INSTANCE = null;
@@ -72,7 +72,7 @@ public abstract class Biometricks {
         /**
          * Device has Iris ONLY
          */
-        @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Iris;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
+        @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Iris;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
         public static final class Iris extends com.devlomi.fireapp.utils.biometricks.Biometricks.Available {
             @org.jetbrains.annotations.NotNull()
             public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Available.Iris INSTANCE = null;
@@ -85,7 +85,7 @@ public abstract class Biometricks {
         /**
          * Device has more than one biometric feature available ONLY
          */
-        @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Multiple;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
+        @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Multiple;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
         public static final class Multiple extends com.devlomi.fireapp.utils.biometricks.Biometricks.Available {
             @org.jetbrains.annotations.NotNull()
             public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Available.Multiple INSTANCE = null;
@@ -101,7 +101,7 @@ public abstract class Biometricks {
          * This could happen if an older version of this library is
          * used on a newer device, with new biometric features.
          */
-        @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Unknown;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
+        @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available$Unknown;", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Available;", "()V", "app_debug"})
         public static final class Unknown extends com.devlomi.fireapp.utils.biometricks.Biometricks.Available {
             @org.jetbrains.annotations.NotNull()
             public static final com.devlomi.fireapp.utils.biometricks.Biometricks.Available.Unknown INSTANCE = null;
@@ -112,7 +112,7 @@ public abstract class Biometricks {
         }
     }
     
-    @kotlin.Metadata(mv = {1, 5, 1}, k = 1, d1 = {"\u0000H\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000b\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002J\u000e\u0010\u0005\u001a\u00020\u00062\u0006\u0010\u0007\u001a\u00020\bJ5\u0010\t\u001a\u00020\n2\u0006\u0010\u000b\u001a\u00020\f2\u0006\u0010\r\u001a\u00020\u000e2\u0012\u0010\u000f\u001a\u000e\u0012\u0004\u0012\u00020\u0011\u0012\u0004\u0012\u00020\u00120\u0010H\u0087@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010\u0013J5\u0010\t\u001a\u00020\n2\u0006\u0010\u0014\u001a\u00020\u00152\u0006\u0010\r\u001a\u00020\u000e2\u0012\u0010\u000f\u001a\u000e\u0012\u0004\u0012\u00020\u0011\u0012\u0004\u0012\u00020\u00120\u0010H\u0087@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010\u0016R\u0010\u0010\u0003\u001a\u0004\u0018\u00010\u0004X\u0082\u000e\u00a2\u0006\u0002\n\u0000\u0082\u0002\u0004\n\u0002\b\u0019\u00a8\u0006\u0017"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Companion;", "", "()V", "biometricksHelper", "Lcom/devlomi/fireapp/utils/biometricks/internal/BiometricksHelper;", "from", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "context", "Landroid/content/Context;", "showPrompt", "Landroidx/biometric/BiometricPrompt$CryptoObject;", "fragment", "Landroidx/fragment/app/Fragment;", "promptInfo", "Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;", "showLoading", "Lkotlin/Function1;", "", "", "(Landroidx/fragment/app/Fragment;Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;Lkotlin/jvm/functions/Function1;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "activity", "Landroidx/fragment/app/FragmentActivity;", "(Landroidx/fragment/app/FragmentActivity;Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;Lkotlin/jvm/functions/Function1;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "app_debug"})
+    @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000H\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000b\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002J\u000e\u0010\u0005\u001a\u00020\u00062\u0006\u0010\u0007\u001a\u00020\bJ5\u0010\t\u001a\u00020\n2\u0006\u0010\u000b\u001a\u00020\f2\u0006\u0010\r\u001a\u00020\u000e2\u0012\u0010\u000f\u001a\u000e\u0012\u0004\u0012\u00020\u0011\u0012\u0004\u0012\u00020\u00120\u0010H\u0087@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010\u0013J5\u0010\t\u001a\u00020\n2\u0006\u0010\u0014\u001a\u00020\u00152\u0006\u0010\r\u001a\u00020\u000e2\u0012\u0010\u000f\u001a\u000e\u0012\u0004\u0012\u00020\u0011\u0012\u0004\u0012\u00020\u00120\u0010H\u0087@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010\u0016R\u0010\u0010\u0003\u001a\u0004\u0018\u00010\u0004X\u0082\u000e\u00a2\u0006\u0002\n\u0000\u0082\u0002\u0004\n\u0002\b\u0019\u00a8\u0006\u0017"}, d2 = {"Lcom/devlomi/fireapp/utils/biometricks/Biometricks$Companion;", "", "()V", "biometricksHelper", "Lcom/devlomi/fireapp/utils/biometricks/internal/BiometricksHelper;", "from", "Lcom/devlomi/fireapp/utils/biometricks/Biometricks;", "context", "Landroid/content/Context;", "showPrompt", "Landroidx/biometric/BiometricPrompt$CryptoObject;", "fragment", "Landroidx/fragment/app/Fragment;", "promptInfo", "Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;", "showLoading", "Lkotlin/Function1;", "", "", "(Landroidx/fragment/app/Fragment;Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;Lkotlin/jvm/functions/Function1;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "activity", "Landroidx/fragment/app/FragmentActivity;", "(Landroidx/fragment/app/FragmentActivity;Lcom/devlomi/fireapp/utils/biometricks/BiometricPromptInfo;Lkotlin/jvm/functions/Function1;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "app_debug"})
     public static final class Companion {
         
         private Companion() {

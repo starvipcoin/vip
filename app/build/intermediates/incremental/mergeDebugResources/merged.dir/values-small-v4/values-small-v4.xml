@@ -17,4 +17,5 @@
     <dimen name="row_gallery_height">110dp</dimen>
     <dimen name="row_gallery_width">110dp</dimen>
     <dimen name="text_margin">13dp</dimen>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
 </resources>

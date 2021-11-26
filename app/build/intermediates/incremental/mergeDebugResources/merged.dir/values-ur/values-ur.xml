@@ -47,6 +47,7 @@
     <string name="after_30_minutes">30 منٹ کے بعد</string>
     <string name="after_5_minutes">5 منٹ کے بعد</string>
     <string name="agree_and_continue">اتفاق کریں اور جاری رکھیں</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="answer">جواب</string>
     <string name="app_info">%s ایک چیٹ ایپ ہے جو لوگوں کو ایک دوسرے کے ساتھ ایک سادہ اور عظیم UI کے ساتھ جوڑتی ہے</string>
     <string name="are_no_longer_an_admin">اب ایڈمن نہیں ہیں</string>

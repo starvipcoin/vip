@@ -5,9 +5,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.devlomi.fireapp.R;
@@ -17,20 +18,28 @@ import java.lang.String;
 
 public final class ActivityAgreePrivacyPolicyBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final RelativeLayout rootView;
+
+  @NonNull
+  public final TextView appname;
 
   @NonNull
   public final Button btnAgree;
 
-  private ActivityAgreePrivacyPolicyBinding(@NonNull ConstraintLayout rootView,
-      @NonNull Button btnAgree) {
+  @NonNull
+  public final TextView privacytxt;
+
+  private ActivityAgreePrivacyPolicyBinding(@NonNull RelativeLayout rootView,
+      @NonNull TextView appname, @NonNull Button btnAgree, @NonNull TextView privacytxt) {
     this.rootView = rootView;
+    this.appname = appname;
     this.btnAgree = btnAgree;
+    this.privacytxt = privacytxt;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public RelativeLayout getRoot() {
     return rootView;
   }
 
@@ -55,13 +64,26 @@ public final class ActivityAgreePrivacyPolicyBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.appname;
+      TextView appname = ViewBindings.findChildViewById(rootView, id);
+      if (appname == null) {
+        break missingId;
+      }
+
       id = R.id.btn_agree;
       Button btnAgree = ViewBindings.findChildViewById(rootView, id);
       if (btnAgree == null) {
         break missingId;
       }
 
-      return new ActivityAgreePrivacyPolicyBinding((ConstraintLayout) rootView, btnAgree);
+      id = R.id.privacytxt;
+      TextView privacytxt = ViewBindings.findChildViewById(rootView, id);
+      if (privacytxt == null) {
+        break missingId;
+      }
+
+      return new ActivityAgreePrivacyPolicyBinding((RelativeLayout) rootView, appname, btnAgree,
+          privacytxt);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

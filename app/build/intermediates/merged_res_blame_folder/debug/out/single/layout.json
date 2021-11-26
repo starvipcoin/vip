@@ -1,430 +1,434 @@
 [
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_call.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_call.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_authentication.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_authentication.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_backup_chat.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\content_backup_chat.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_verify_phone.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_verify_phone.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_group.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_location.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_location.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_logged_out.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_logged_out.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cant_send_layout.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\cant_send_layout.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_voice_message.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_voice_message.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_contact.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_contact.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_voice.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_message_voice.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_location.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_location.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_fragment.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\about_fragment.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_chats.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_chats.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_security.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_security.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_chat.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_new_chat.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_contact_picker.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_contact_picker.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_file.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_file.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\accept_invite_bottom_sheet.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\accept_invite_bottom_sheet.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\privacy_policy_dialog.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\privacy_policy_dialog.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_voice.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_message_voice.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_deleted_message.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_deleted_message.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\attachments_items.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\attachments_items.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\accept_invite_bottom_sheet.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\accept_invite_bottom_sheet.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setup_user.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_setup_user.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_status_camera.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_new_status_camera.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_chats.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_chats.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_agree_privacy_policy.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_agree_privacy_policy.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_group_title.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\dialog_group_title.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_video.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_message_video.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popupwindow.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\popupwindow.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chats.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_chats.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_sticker.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_sticker.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_ignore_battery.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\dialog_ignore_battery.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_contact.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_contact.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_audio.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_audio.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_enter_phone_number.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_enter_phone_number.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_file.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_file.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_contact_details.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_contact_details.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_agree_privacy_policy.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_agree_privacy_policy.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_image_view.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_image_view.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_status_header.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_status_header.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_details.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_user_details.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_new_group_selected_user.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_new_group_selected_user.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contact_details.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_contact_details.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_image_view.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_image_view.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_file.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_ignore_battery.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\dialog_ignore_battery.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_new_group_selected_user.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_new_group_selected_user.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_contact_details.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_contact_details.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_delete_dialog.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_delete_dialog.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_group_event.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_group_event.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_save_e2_e.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_save_e2_e.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\seen_by_bottomsheet.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\seen_by_bottomsheet.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_not_supported.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_not_supported.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forward.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_forward.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contact_details.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_contact_details.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_group_participant.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_group_participant.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_text.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_message_text.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_chat.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_new_chat.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_share_group_link.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_share_group_link.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_sticker.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_sticker.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_seen_by.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_seen_by.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_img.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_message_img.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_media_gallery.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_media_gallery.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_deleted_message.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_deleted_message.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calls.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_my_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\attachments_items.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\attachments_items.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_day.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_day.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_video.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_message_video.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_contact.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_contact.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_places_picker.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_places_picker.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fullscreen.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\typing_layout.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\typing_layout.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_status_camera.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_new_status_camera.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile_photo.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_profile_photo.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_video.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_message_video.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_video_view.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_video_view.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\progress_dialog_layout.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\progress_dialog_layout.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile_photo_dialog.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_profile_photo_dialog.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_contact_numbers.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_select_contact_numbers.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_video_view.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_video_view.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_call.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_new_call.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fullscreen.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\privacy_policy_fragment.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\privacy_policy_fragment.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_gallery.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_gallery.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\places_bottomsheet.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\places_bottomsheet.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_contact.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_contact.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_audio.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_audio.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_user.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_user.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_user_details.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\content_user_details.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chats.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_save_e2_e.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_save_e2_e.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_my_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_forward.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_forward.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_parital_group_user.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_parital_group_user.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_deleted_message.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_deleted_message.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile_photo_dialog.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_profile_photo_dialog.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\reply_status_bottomsheet.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\reply_status_bottomsheet.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_sticker.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_sticker.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_new_call.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_new_call.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_my_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_my_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_user.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_user.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_group_event.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_group_event.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fagment_profile_settings.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fagment_profile_settings.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\places_bottomsheet.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\places_bottomsheet.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_reply.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\item_reply.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_audio.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_audio.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_parital_group_user.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_parital_group_user.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_text.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_message_text.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera_whats_app.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_camera_whats_app.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_settings.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_chat.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\content_chat.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fagment_profile_settings.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fagment_profile_settings.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_location.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_location.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_text_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_text_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_logged_out.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_logged_out.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_accept_invite_link.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_accept_invite_link.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_video.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_message_video.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_accept_invite_link.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_accept_invite_link.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setup_user.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_setup_user.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_group_title.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\dialog_group_title.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_fragment.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\about_fragment.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_view_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_chat.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\content_chat.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_not_supported.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_not_supported.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_reply.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\item_reply.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_sticker.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_sticker.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_phone_number.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_phone_number.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\progress_dialog_layout.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\progress_dialog_layout.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_places_picker.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_places_picker.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_audio.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_audio.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_update.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_img.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_message_img.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_delete_dialog.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_delete_dialog.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_media.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_media.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_enter_phone_number.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_enter_phone_number.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_deleted_message.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_deleted_message.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_my_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\content_my_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_call.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_new_call.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_my_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_my_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\seen_by_bottomsheet.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\seen_by_bottomsheet.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popupwindow.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\popupwindow.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_img.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_message_img.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_text_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_text_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\privacy_policy_fragment.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\privacy_policy_fragment.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_contact_numbers.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_select_contact_numbers.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_media.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_media.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_seen_by.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_seen_by.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\reply_status_bottomsheet.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\reply_status_bottomsheet.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_group.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_new_group.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forward.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_forward.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calls.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_calls.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_enter_username.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_enter_username.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_share_group_link.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_share_group_link.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_call_alt.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_phone_call_alt.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_settings.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_my_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\content_my_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_gallery.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_gallery.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_security.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_security.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_text.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_message_text.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile_photo.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_profile_photo.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_user_details.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\content_user_details.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lockscreen.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_lockscreen.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_day.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_day.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_call.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_phone_call.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_call_alt.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_phone_call_alt.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_contact_picker.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_contact_picker.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_message_img.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_received_message_img.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_message_text.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_message_text.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_status.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_view_status.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_backup_chat.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_backup_chat.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_group_participant.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_group_participant.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\privacy_policy_dialog.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\privacy_policy_dialog.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_authentication.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_voice_message.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_sent_voice_message.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_arrow.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_arrow.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_call.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_call.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lockscreen.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_lockscreen.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_enter_username.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_enter_username.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_camera.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_update.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_call.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_phone_call.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_media_gallery.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\activity_media_gallery.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cant_send_layout.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\cant_send_layout.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_place.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_place.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_status_header.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_status_header.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_sent_location.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_sent_location.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_status.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\fragment_status.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_new_call.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_new_call.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\typing_layout.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\typing_layout.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_forward.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\row_forward.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_received_file.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_details.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_user_details.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_backup_chat.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\content_backup_chat.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_backup_chat.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\activity_backup_chat.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_arrow.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_arrow.xml"
     },
     {
-        "merged": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_verify_phone.xml",
-        "source": "E:\\vipapp2\\app\\src\\main\\res\\layout\\fragment_verify_phone.xml"
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_phone_number.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_place.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\layout\\row_place.xml"
     }
 ]

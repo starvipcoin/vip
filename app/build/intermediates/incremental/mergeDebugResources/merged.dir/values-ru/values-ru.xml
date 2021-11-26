@@ -55,6 +55,7 @@
     <string name="after_30_minutes">После 30 минут</string>
     <string name="after_5_minutes">Через 5 минут</string>
     <string name="agree_and_continue">Согласитесь и продолжайте</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="album_name_all">Все</string>
     <string name="answer">ОТВЕТ</string>
     <string name="app_info">%s - это приложение чата, которое связывает людей друг с другом с помощью простого и удобного интерфейса.</string>

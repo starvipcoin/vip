@@ -43,6 +43,7 @@
     <string name="after_30_minutes">Depois de 30 minutos</string>
     <string name="after_5_minutes">Após 5 minutos</string>
     <string name="agree_and_continue">Concorde e continue</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="answer">RESPONDA</string>
     <string name="app_info">%s é um aplicativo de bate-papo que conecta pessoas com uma interface do usuário simples e ótima</string>
     <string name="are_no_longer_an_admin">não é mais um administrador</string>

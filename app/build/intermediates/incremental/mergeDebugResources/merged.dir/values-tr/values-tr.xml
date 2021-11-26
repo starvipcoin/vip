@@ -46,7 +46,8 @@
     <string name="after_1_minute">1 dakika sonra</string>
     <string name="after_30_minutes">30 dakika sonra</string>
     <string name="after_5_minutes">5 dakika sonra</string>
-    <string name="agree_and_continue">Katıl ve devam et</string>
+    <string name="agree_and_continue">Kabul et ve devam et</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="answer">CEVAP</string>
     <string name="app_info">%s, kullanıcıları basit ve harika bir kullanıcı arayüzüyle birbirine bağlayan bir Sohbet Uygulamasıdır</string>
     <string name="are_no_longer_an_admin">artık yönetici değil</string>
@@ -156,7 +157,7 @@
     <string name="do_not_show_again">Bu mesajı tekrar gösterme</string>
     <string name="does_not_have_fireapp">%s içermiyor</string>
     <string name="dummy_button">Sahte Düğme</string>
-    <string name="dummy_content">YAPAY \ nCONTENT</string>
+    <string name="dummy_content">Sahte \nİçerik</string>
     <string name="edit">Düzenle</string>
     <string name="edit_recipients">Alıcıları düzenle</string>
     <string name="enter_correct_number">Lütfen doğru bir sayı girin</string>
@@ -170,7 +171,7 @@
     <string name="error">hata</string>
     <string name="error_calling">Çağrı yapılırken hata oluştu</string>
     <string name="error_icon_content_description">Hata</string>
-    <string name="error_playing_this">Bunu oynatma hatası :(</string>
+    <string name="error_playing_this">Oynatma hatası</string>
     <string name="error_removing_member">Üye kaldırma hatası</string>
     <string name="error_restoring_backup">Yedekleme geri yüklenirken hata oluştu</string>
     <string name="error_uploading_status">Durum yüklenirken hata oluştu</string>
@@ -220,7 +221,7 @@
     <string name="ignore_battery_dialog_title">Pil Optimizasyonunu Yoksay</string>
     <string name="ignore_battery_summary">Tüm iletilerin doğru bir şekilde iletildiğinden emin olmak için Pil Optimizasyonlarını devre dışı bırakmanız gerekir</string>
     <string name="image_changed">Görüntü değiştirildi</string>
-    <string name="image_video_not_found">SEÇİLMİŞ GÖRÜNTÜ / Video Bulunamadı</string>
+    <string name="image_video_not_found">Seçilen resim/video Bulunamadı</string>
     <string name="img_transition">img_transition</string>
     <string name="immediately">Hemen</string>
     <string name="incoming_video_call">Gelen Görüntülü Arama</string>
@@ -334,7 +335,7 @@
     <string name="otp_verification">OTP Doğrulaması</string>
     <string name="participants">Katılımcılar</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-    <string name="phone_auth_info">Doğrulamak için 6 haneli bir kod alacaksınız. \ NStandartlar geçerli olabilir</string>
+    <string name="phone_auth_info">Doğrulamak için 6 haneli bir kod alacaksınız.\nStandartlar geçerli olabilir</string>
     <string name="photo">Fotoğraf</string>
     <string name="photos">Fotoğraflar</string>
     <string name="pick_image_intent_chooser_title">Kaynağı seçin</string>
@@ -408,12 +409,12 @@
     <string name="today">Bugün</string>
     <string name="today_at">Bugün</string>
     <string name="too_many_verification_attempts">Çok fazla doğrulama girişimi</string>
-    <string name="type_not_supported">Tip desteklenmiyor!</string>
+    <string name="type_not_supported">Dosya türü desteklenmiyor!</string>
     <string name="typing">Yazıyor...</string>
     <string name="unavailable">Kullanım dışı</string>
     <string name="unblock">Engeli kaldır</string>
     <string name="unblock_contact">Kişinin engellemesini kaldır</string>
-    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="unknown_error">Bilinmeyen Hata</string>
     <string name="unknown_sign_in_response">Cevap yok</string>
     <string name="unlock_with_fingerprint">Parmak İziyle Kilidini Aç</string>
     <string name="unmute_notifications">Sesi Açma Bildirimleri</string>

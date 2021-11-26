@@ -115,6 +115,12 @@
     <color name="splash_bg">@color/bgColor</color>
 
 
+    <color name="video_counter_color_pix">#E53935</color>
+    <color name="primary_color_pix">#075e54</color>
+    <color name="primary_light_color_pix">#80075e54</color>
+    <color name="surface_color_pix">#ffffff</color>
+    <color name="text_color_pix">#807f7f</color>
+
     <string-array name="status_bg_colors">
         <item>#FF8A8C</item>
         <item>#54C265</item>

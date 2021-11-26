@@ -47,6 +47,7 @@
     <string name="after_30_minutes">Setelah 30 menit</string>
     <string name="after_5_minutes">Setelah 5 menit</string>
     <string name="agree_and_continue">Setuju dan Lanjutkan</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="answer">MENJAWAB</string>
     <string name="app_info">%s adalah Aplikasi Obrolan yang menghubungkan orang satu sama lain dengan UI yang sederhana dan hebat</string>
     <string name="are_no_longer_an_admin">bukan lagi admin</string>

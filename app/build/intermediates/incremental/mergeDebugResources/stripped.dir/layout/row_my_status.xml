@@ -56,14 +56,14 @@
                 android:layout_width="20dp"
                 android:layout_height="20dp"
                 android:layout_gravity="right|bottom"
-                android:layout_marginLeft="44dp"
+                android:layout_marginLeft="40dp"
                 android:layout_marginBottom="4dp"
                 android:background="@drawable/circle_bg"
-                android:padding="5dp"
+                android:padding="3dp"
                 android:scaleType="centerCrop"
                 android:tint="@color/colorWhite"
-                android:visibility="invisible"
-                app:srcCompat="@drawable/ic_check" />
+                android:visibility="visible"
+                app:srcCompat="@drawable/plus" />
 
         </FrameLayout>
 

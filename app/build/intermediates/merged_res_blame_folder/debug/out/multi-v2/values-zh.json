@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\79c188ceda7e336c4247626a3c439752\\transformed\\jetified-matisse-0.5.3-beta3\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\06ed2cc294a4220ac378e5d44124ff9c\\transformed\\jetified-matisse-0.5.3-beta3\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\7ef514d7fdcd49a7bcfc04fcbec1508c\\transformed\\jetified-Android-Image-Cropper-2.1.1\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\3598f9ca8f2eb1f639820005591b579f\\transformed\\jetified-Android-Image-Cropper-2.1.1\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

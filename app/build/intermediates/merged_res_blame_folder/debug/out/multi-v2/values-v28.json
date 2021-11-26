@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\1ec8271be6ed9859e4a20924d7ce65a4\\transformed\\material-1.4.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\a77e7da040dbb57e3643a23a12506238\\transformed\\material-1.4.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\469eca644bfa13e76bf624dae5a1cba3\\transformed\\appcompat-1.3.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\c260a38db6c5c6b0fcb234fd6f867922\\transformed\\appcompat-1.4.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\1ec8271be6ed9859e4a20924d7ce65a4\\transformed\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\a77e7da040dbb57e3643a23a12506238\\transformed\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "E:\\vipapp2\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\values-small\\dimens.xml",
                     "from": {
                         "startLines": "3,4,5,13,2,8,7,10,9,14,12,11,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "97,155,211,588,55,343,301,435,386,640,537,487,258",
+                        "startOffsets": "100,159,216,601,57,351,308,445,395,654,549,498,264",
                         "endColumns": "57,55,46,51,41,42,41,51,48,53,50,49,42",
-                        "endOffsets": "150,206,253,635,92,381,338,482,430,689,583,532,296"
+                        "endOffsets": "153,210,258,648,94,389,345,492,439,703,595,543,302"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,16,17,18",
@@ -35,6 +35,23 @@
                         "startOffsets": "55,113,169,216,268,310,353,395,447,496,835,886,936",
                         "endColumns": "57,55,46,51,41,42,41,51,48,53,50,49,42",
                         "endOffsets": "108,164,211,263,305,348,390,442,491,545,881,931,974"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\src\\main\\res\\values-small\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "114",
+                        "endOffsets": "167"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "979",
+                        "endColumns": "114",
+                        "endOffsets": "1089"
                     }
                 }
             ]

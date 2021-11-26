@@ -36,6 +36,13 @@ class AgreePrivacyPolicyActivity : AppCompatActivity() {
 
         }
 
+        btn_agree.setOnClickListener {
+            if (!FireManager.isLoggedIn())
+                startLoginActivity()
+            else
+                startNextActivity()
+
+        }
 
     }
 

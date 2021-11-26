@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\79c188ceda7e336c4247626a3c439752\\transformed\\jetified-matisse-0.5.3-beta3\\res\\values-tr-rTR\\values-tr-rTR.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\06ed2cc294a4220ac378e5d44124ff9c\\transformed\\jetified-matisse-0.5.3-beta3\\res\\values-tr-rTR\\values-tr-rTR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

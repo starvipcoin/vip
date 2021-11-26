@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\vipapp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "C:\\Users\\ACER\\AndroidStudioProjects\\vip\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\iso_s\\.gradle\\caches\\transforms-3\\7ef514d7fdcd49a7bcfc04fcbec1508c\\transformed\\jetified-Android-Image-Cropper-2.1.1\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\3598f9ca8f2eb1f639820005591b579f\\transformed\\jetified-Android-Image-Cropper-2.1.1\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

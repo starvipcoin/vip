@@ -25,7 +25,7 @@
     <string msgid="7208076849092622260" name="abc_search_hint">"সন্ধান কৰক…"</string>
     <string msgid="3741173234950517107" name="abc_searchview_description_clear">"সন্ধান কৰা প্ৰশ্ন মচক"</string>
     <string msgid="693312494995508443" name="abc_searchview_description_query">"সন্ধান কৰা প্ৰশ্ন"</string>
-    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Search"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"সন্ধান কৰক"</string>
     <string msgid="1486535517437947103" name="abc_searchview_description_submit">"প্ৰশ্ন দাখিল কৰক"</string>
     <string msgid="2293578557972875415" name="abc_searchview_description_voice">"কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান"</string>
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক"</string>
@@ -136,7 +136,7 @@
     <string name="s5">কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰক</string>
     <string name="s6">বিজ্ঞাপনক কোনো কেলেণ্ডাৰৰ কাৰ্যক্ৰম সৃষ্টি কৰিবলৈ অনুমতি দিবনে?</string>
     <string name="s7">পৰীক্ষণ বিজ্ঞাপন</string>
-    <string msgid="6264217191555673260" name="search_menu_title">"Search"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"সন্ধান"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
     <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
     <string msgid="5138405918326871307" name="v7_preference_off">"অফ অৱস্থাত আছে"</string>

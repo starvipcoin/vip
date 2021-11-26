@@ -15,6 +15,10 @@
     <dimen name="notification_main_column_padding_top">0dp</dimen>
     <dimen name="notification_media_narrow_margin">12dp</dimen>
     <dimen name="preference_dropdown_padding_start">72dp</dimen>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
+    <string name="androidx_camera_default_config_provider" translatable="false">
+        androidx.camera.camera2.Camera2Config$DefaultProvider
+    </string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>

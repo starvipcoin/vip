@@ -299,6 +299,10 @@
     <attr format="reference" name="iconRight"/>
     <attr format="dimension" name="iconSize"/>
     <attr format="reference" name="iconSrc"/>
+    <attr format="enum" name="implementationMode">
+        <enum name="performance" value="0"/>
+        <enum name="compatible" value="1"/>
+    </attr>
     <attr format="boolean" name="isLightTheme"/>
     <attr format="boolean" name="isMaterialTheme"/>
     <attr format="reference|color" name="item.checkCircle.backgroundColor"/>
@@ -312,6 +316,8 @@
     <attr format="enum" name="layoutDuringTransition">
         <enum name="ignoreRequest" value="0"/>
         <enum name="honorRequest" value="1"/>
+        <enum name="callMeasure" value="2"/>
+
     </attr>
     <attr format="boolean" name="layout_constrainedHeight"/>
     <attr format="boolean" name="layout_constrainedWidth"/>
@@ -545,6 +551,14 @@
     <attr format="integer" name="quantizeMotionSteps"/>
     <attr format="reference" name="recyclerViewStyle"/>
     <attr format="color" name="rippleColor"/>
+    <attr format="enum" name="scaleType">
+        <enum name="fillStart" value="0"/>
+        <enum name="fillCenter" value="1"/>
+        <enum name="fillEnd" value="2"/>
+        <enum name="fitStart" value="3"/>
+        <enum name="fitCenter" value="4"/>
+        <enum name="fitEnd" value="5"/>
+    </attr>
     <attr format="color|reference" name="scrimBackground"/>
     <attr format="boolean" name="selectionRequired"/>
     <attr format="reference" name="shapeAppearanceLargeComponent"/>
@@ -836,8 +850,10 @@
     <color name="preview_bottom_size">#61FFFFFF</color>
     <color name="preview_bottom_toolbar_bg">#CC000000</color>
     <color name="primaryColor">#da4d26</color>
+    <color name="primary_color_pix">#075e54</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
+    <color name="primary_light_color_pix">#80075e54</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
     <color name="primary_material_light">@color/material_grey_100</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -882,12 +898,14 @@
     <color name="status_hint">#26FFFFFF</color>
     <color name="status_not_seen_color">@color/blue</color>
     <color name="status_seen_color">#5c5c5c</color>
+    <color name="surface_color_pix">#ffffff</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="test">#221224</color>
     <color name="text_color_grey">#ADADAD</color>
+    <color name="text_color_pix">#807f7f</color>
     <color name="toolbar_status_text_color">#C0DAF1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
@@ -900,6 +918,7 @@
     <color name="typing_color">#0080D4</color>
     <color name="unread_count_background_color">#4EA2E8</color>
     <color name="unread_count_text_color">#FFFFFF</color>
+    <color name="video_counter_color_pix">#E53935</color>
     <color name="white">#ffffff</color>
     <color name="zhihu_album_dropdown_count_text">#999999</color>
     <color name="zhihu_album_dropdown_thumbnail_placeholder">#EAEEF4</color>
@@ -1091,7 +1110,7 @@
     <dimen name="fastscroll__handle_width">6dp</dimen>
     <dimen name="fastscroll_bubble_padding">16dp</dimen>
     <dimen name="fastscroll_bubble_radius">44dp</dimen>
-    <dimen name="fastscroll_bubble_size">88dp</dimen>
+    <dimen name="fastscroll_bubble_size">38dp</dimen>
     <dimen name="fastscroll_bubble_textsize">48sp</dimen>
     <dimen name="fastscroll_default_thickness">8dp</dimen>
     <dimen name="fastscroll_handle_height">40dp</dimen>
@@ -1119,7 +1138,10 @@
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
     <dimen name="margin_bottom_message">8dp</dimen>
+    <dimen name="margin_top">0dp</dimen>
     <dimen name="margin_top_message">8dp</dimen>
+    <dimen name="margin_top_nve">0dp</dimen>
+    <dimen name="margin_video_counter_pix">42dp</dimen>
     <dimen name="material_bottom_sheet_max_width">640dp</dimen>
     <dimen name="material_clock_display_padding">24dp</dimen>
     <dimen name="material_clock_face_margin_top">44dp</dimen>
@@ -1380,6 +1402,7 @@
     <dimen name="row_gallery_width">130dp</dimen>
     <dimen name="search_icon_padding">12dp</dimen>
     <dimen name="search_view_text_padding">65dp</dimen>
+    <dimen name="small_thumb">62dp</dimen>
     <dimen name="sticker_grid_view_column_width">88dp</dimen>
     <dimen name="subtitle_corner_radius">2dp</dimen>
     <dimen name="subtitle_outline_width">2dp</dimen>
@@ -1600,7 +1623,10 @@
     <string name="after_5_minutes">After 5 minutes</string>
     <string name="agora_app_id" translatable="false">1d5ad808e3bf4e9698c357dfbbd3d830</string>
     <string name="agree_and_continue">Agree and Continue</string>
+    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="album_name_all">All Media</string>
+    <string name="androidx_camera_default_config_provider" translatable="false"/>
+    <string name="androidx_startup" translatable="false">androidx.startup</string>
     <string name="answer">ANSWER</string>
     <string name="answered">ANSWERED</string>
     <string name="app_folder_name" translatable="false">Vip</string>
@@ -1650,6 +1676,7 @@
     <string name="call_type">%s Call</string>
     <string name="calls">Calls</string>
     <string name="camera">Camera</string>
+    <string name="camera_flash_button">camera flash button</string>
     <string name="camera_tip">Tap to Take a Photo,Hold to Record Video</string>
     <string name="cancel">CANCEL</string>
     <string name="cancel_verification_confirmation_message">Are you sure you want to cancel the request to verifiy your phone number?</string>
@@ -1675,6 +1702,7 @@
     <string name="clear_chat_message">are you sure you want to delete all messages in this chat?</string>
     <string name="clear_search_button_content_description">Clear search</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="click_button">click button</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1858,6 +1886,7 @@
     <string name="key_autodownload_wifi" translatable="false">key_autodownload_wifi</string>
     <string name="last_backup">Last Backup</string>
     <string name="left_group">Left group</string>
+    <string name="lens_facing_button">lens facing button</string>
     <string name="loading">Loading..</string>
     <string name="location">Location</string>
     <string name="lock_after">Lock after</string>
@@ -1984,6 +2013,17 @@
     <string name="photos">Photos</string>
     <string name="pick_image_intent_chooser_title">Select source</string>
     <string name="picker_title">Select Contacts</string>
+    <string name="pix_bottom_message_with_only_video">Drag videos up for gallery</string>
+    <string name="pix_bottom_message_with_video">Hold for video, tap for photo</string>
+    <string name="pix_bottom_message_without_video">Drag images up for gallery</string>
+    <string name="pix_counter_number">0:00</string>
+    <string name="pix_last_month">Last Month</string>
+    <string name="pix_last_week">Last Week</string>
+    <string name="pix_ok">OK</string>
+    <string name="pix_recent">Recent</string>
+    <string name="pix_selected">Selected</string>
+    <string name="pix_selection_limiter">Can\'t select more than %d items.</string>
+    <string name="pix_tap_to_select">Tap photo to select</string>
     <string name="playing_audio">Playing Audio</string>
     <string name="pref_header_about">About</string>
     <string name="pref_header_chat">Chat</string>
@@ -3504,6 +3544,7 @@
 
         <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
 
+        <item name="checkedTextViewStyle">?android:attr/checkedTextViewStyle</item>
         <item name="checkboxStyle">@style/Widget.AppCompat.CompoundButton.CheckBox</item>
         <item name="radioButtonStyle">@style/Widget.AppCompat.CompoundButton.RadioButton</item>
         <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
@@ -6775,6 +6816,9 @@
          is scrollable. -->
     <attr format="reference" name="layout_scrollInterpolator"/>
   </declare-styleable>
+    <declare-styleable name="AppCompatEmojiHelper">
+
+    </declare-styleable>
     <declare-styleable name="AppCompatImageView">
         <attr name="android:src"/>
         <!-- Sets a drawable as the content of this ImageView. Allows the use of vector drawable
@@ -6915,6 +6959,8 @@
                  result to valid color values. Saturate(S + D) -->
             <enum name="add" value="16"/>
         </attr>
+        <!-- Display the emoji if emojicompat has this character for emoji not on the system -->
+        <attr format="boolean" name="emojiCompatEnabled"/>
     </declare-styleable>
     <declare-styleable name="AppCompatTheme">
 
@@ -7527,6 +7573,26 @@
              enough space to lay them out side-by-side. -->
         <attr format="boolean" name="allowStacking"/>
     </declare-styleable>
+    <declare-styleable name="CameraView">
+        <attr name="scaleType"/>
+        <attr format="enum" name="lensFacing">
+            <enum name="none" value="0"/>
+            <enum name="front" value="1"/>
+            <enum name="back" value="2"/>
+        </attr>
+        <attr format="enum" name="captureMode">
+            <enum name="image" value="0"/>
+            <enum name="video" value="1"/>
+            <enum name="mixed" value="2"/>
+        </attr>
+        <attr format="enum" name="flash">
+            <enum name="auto" value="1"/>
+            <enum name="on" value="2"/>
+            <enum name="off" value="4"/>
+        </attr>
+
+        <attr format="boolean" name="pinchToZoomEnabled"/>
+    </declare-styleable>
     <declare-styleable name="Capability">
         <!-- Resource reference to the string array of query patterns for a custom capability. -->
         <attr format="reference" name="queryPatterns"/>
@@ -7595,6 +7661,34 @@
              dependents will be disabled when this is unchecked, so the value of this preference is false. -->
         <attr format="boolean" name="disableDependentsState"/>
         <attr name="android:disableDependentsState"/>
+    </declare-styleable>
+    <declare-styleable name="CheckedTextView">
+        <attr name="android:checkMark"/>
+        <!-- Compat attr to load backported drawable types -->
+        <attr format="reference" name="checkMarkCompat"/>
+        <!-- Tint to apply to the check mark drawable. -->
+        <attr format="color" name="checkMarkTint"/>
+
+        <!-- Blending mode used to apply the check mark tint. -->
+        <attr name="checkMarkTintMode">
+            <!-- The tint is drawn on top of the drawable.
+                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            <enum name="src_over" value="3"/>
+            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
+                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            <enum name="src_in" value="5"/>
+            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
+                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            <enum name="src_atop" value="9"/>
+            <!-- Multiplies the color and alpha channels of the drawable with those of
+                 the tint. [Sa * Da, Sc * Dc] -->
+            <enum name="multiply" value="14"/>
+            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            <enum name="screen" value="15"/>
+            <!-- Combines the tint and icon color and alpha channels, clamping the
+                 result to valid color values. Saturate(S + D) -->
+            <enum name="add" value="16"/>
+        </attr>
     </declare-styleable>
     <declare-styleable name="Chip">
     <!-- Surface layer color to apply to the chip. -->
@@ -10527,6 +10621,10 @@
         <!-- Default style for seekbar preferences. -->
         <attr format="reference" name="seekBarPreferenceStyle"/>
     </declare-styleable>
+    <declare-styleable name="PreviewView">
+        <attr name="scaleType"/>
+        <attr name="implementationMode"/>
+    </declare-styleable>
     <declare-styleable name="PropertySet">
         <!-- Controls the initial visibility of the view.  -->
         <attr name="android:visibility"/>
@@ -11576,7 +11674,7 @@
             <flag name="none" value="0"/>
             <flag name="beginOnFirstDraw" value="1"/>
             <flag name="disableIntraAutoTransition" value="2"/>
-            />
+            <flag name="onInterceptTouchReturnSwipe" value="4"/>
         </attr>
     </declare-styleable>
     <declare-styleable name="Variant">
