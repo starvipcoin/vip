@@ -119,7 +119,6 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
         statusesList = RealmHelper.getInstance().allStatuses
         initMyStatuses()
         circularStatusView.visibility = View.GONE
-        img_selected.visibility = View.VISIBLE  /////// de
         initAdapter()
         rowStatusContainer.setOnClickListener {
             if (myStatuses?.filteredStatuses?.isNotEmpty() == true) {
@@ -182,14 +181,16 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
             tvLastStatusTime.text = statusTime
             btnViewMyStatuses.visibility = View.VISIBLE
             circularStatusView.visibility = View.VISIBLE
-            img_selected.visibility = View.GONE
             if (lastStatus?.type == StatusType.IMAGE || lastStatus?.type == StatusType.VIDEO) {
                 tvTextStatus.visibility = View.GONE
                 profileImage.visibility = View.VISIBLE
+                img_selected.visibility = View.VISIBLE
+
                 Glide.with(requireActivity()).load(lastStatus.thumbImg).into(profileImage)
             } else if (lastStatus?.type == StatusType.TEXT) {
                 tvTextStatus.visibility = View.VISIBLE
                 profileImage.visibility = View.GONE
+                img_selected.visibility = View.GONE
                 val textStatus = lastStatus.textStatus
                 tvTextStatus.text = textStatus.text
                 tvTextStatus.setShapeColor(
@@ -201,9 +202,9 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
             }
         } else {
             circularStatusView.visibility = View.GONE
-            img_selected.visibility = View.VISIBLE
             tvTextStatus.visibility = View.GONE
             profileImage.visibility = View.VISIBLE
+            img_selected.visibility = View.VISIBLE
             Glide.with(requireActivity()).load(SharedPreferencesManager.getThumbImg())
                 .into(profileImage)
             btnViewMyStatuses.visibility = View.GONE
