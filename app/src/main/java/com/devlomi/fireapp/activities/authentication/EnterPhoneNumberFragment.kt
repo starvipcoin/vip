@@ -37,12 +37,8 @@ class EnterPhoneNumberFragment : BaseAuthFragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        cp.setDefaultCountryUsingNameCode("TR")
-        cp.setDefaultCountryUsingPhoneCode(90)
-        cp.detectSIMCountry(true)
 
-
-        et_number.addTextChangedListener(PhoneNumberFormattingTextWatcher())
+      //  et_number.addTextChangedListener(PhoneNumberFormattingTextWatcher())
 
         btn_verify.setOnClickListener {
             val number = et_number.text.toString().trim()

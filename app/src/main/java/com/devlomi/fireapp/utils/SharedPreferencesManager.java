@@ -157,7 +157,7 @@ public class SharedPreferencesManager {
     }
 
     public static Boolean hasAgreedToPrivacyPolicy() {
-        return mSharedPref.getBoolean("agreed_to_privacy_policy", false);  /// burası false olacak
+        return mSharedPref.getBoolean("agreed_to_privacy_policy", true);  /// burası false olacak
     }
 
     public static String getUserName() {
