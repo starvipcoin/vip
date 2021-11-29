@@ -41,6 +41,7 @@ import com.devlomi.fireapp.utils.network.FireManager
 import com.devlomi.fireapp.utils.network.StatusManager
 import com.devlomi.fireapp.views.HeaderViewDecoration
 import com.devlomi.fireapp.views.TextViewWithShapeBackground
+import com.devlomi.hidely.hidelyviews.HidelyImageView
 import com.droidninja.imageeditengine.ImageEditor
 import com.google.android.gms.ads.AdView
 import com.zhihu.matisse.Matisse
@@ -72,6 +73,7 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
     private lateinit var tvTextStatus: TextViewWithShapeBackground
     private lateinit var circularStatusView: CircularStatusView
     private lateinit var profileImage: ImageView
+    private lateinit var img_selected: HidelyImageView
     private lateinit var rowStatusContainer: ConstraintLayout
 
 
@@ -100,6 +102,7 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
         //since we are using <include> the app sometimes crashes, to solve that we are instantiate it using findViewById
         btnViewMyStatuses = view.findViewById(R.id.btn_view_my_statuses)
         circularStatusView = view.findViewById(R.id.circular_status_view)
+        img_selected = view.findViewById(R.id.img_selected)
         tvLastStatusTime = view.findViewById(R.id.tv_last_status_time)
         tvTextStatus = view.findViewById(R.id.tv_text_status)
         rowStatusContainer = view.findViewById(R.id.row_status_container)
@@ -116,6 +119,7 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
         statusesList = RealmHelper.getInstance().allStatuses
         initMyStatuses()
         circularStatusView.visibility = View.GONE
+        img_selected.visibility = View.VISIBLE  /////// de
         initAdapter()
         rowStatusContainer.setOnClickListener {
             if (myStatuses?.filteredStatuses?.isNotEmpty() == true) {
@@ -178,6 +182,7 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
             tvLastStatusTime.text = statusTime
             btnViewMyStatuses.visibility = View.VISIBLE
             circularStatusView.visibility = View.VISIBLE
+            img_selected.visibility = View.GONE
             if (lastStatus?.type == StatusType.IMAGE || lastStatus?.type == StatusType.VIDEO) {
                 tvTextStatus.visibility = View.GONE
                 profileImage.visibility = View.VISIBLE
@@ -196,6 +201,7 @@ class StatusFragment : BaseFragment(), StatusAdapter.OnClickListener {
             }
         } else {
             circularStatusView.visibility = View.GONE
+            img_selected.visibility = View.VISIBLE
             tvTextStatus.visibility = View.GONE
             profileImage.visibility = View.VISIBLE
             Glide.with(requireActivity()).load(SharedPreferencesManager.getThumbImg())
