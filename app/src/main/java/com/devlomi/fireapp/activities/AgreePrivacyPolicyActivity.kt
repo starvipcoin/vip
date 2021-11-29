@@ -37,6 +37,7 @@ class AgreePrivacyPolicyActivity : AppCompatActivity() {
         }
 
         btn_agree.setOnClickListener {
+            SharedPreferencesManager.setAgreedToPrivacyPolicy(true)
             if (!FireManager.isLoggedIn())
                 startLoginActivity()
             else
