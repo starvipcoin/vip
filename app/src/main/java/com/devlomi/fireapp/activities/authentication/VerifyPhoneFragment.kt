@@ -29,13 +29,22 @@ class VerifyPhoneFragment : BaseAuthFragment() {
         arguments?.getString(IntentUtils.PHONE)?.let { phone ->
             tv_otp_info.text = requireActivity().getString(R.string.enter_the_otp_sent_to, phone)
         }
-
+        et_otp.onEditorAction(EditorInfo.IME_ACTION_DONE)
         et_otp.doOnTextChanged { text, _, _, _ ->
             if (text?.length == 6) {
-                et_otp.onEditorAction(EditorInfo.IME_ACTION_DONE)
+                btn_verify_phone.isEnabled=true
+                btn_verify_phone.setEnabled(true)
+            }
+        }
+
+
+        btn_verify_phone.setOnClickListener {
+            if (btn_verify_phone.isEnabled) {
                 completeRegistration()
             }
         }
+
+
 
 
         val callback: OnBackPressedCallback = object : OnBackPressedCallback(true /* enabled by default */) {
