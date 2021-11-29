@@ -162,7 +162,7 @@
     <string name="calls">Aramalar</string>
     <string name="recent_updates">En Yeni Güncellemeler</string>
     <string name="my_status">Durumum</string>
-    <string name="tap_to_add_status">Durum güncellemesi eklemek için hafifçe vurun</string>
+    <string name="tap_to_add_status">Durum güncellemesi eklemek için dokunun</string>
     <string name="title_activity_view_status">ViewStatusActivity</string>
     <string name="dummy_button">Sahte Düğme</string>
     <string name="dummy_content">Sahte \nİçerik</string>
