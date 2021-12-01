@@ -397,4 +397,5 @@ nicht verfügbar!</string>
     <string name="could_not_add_fingerprint"> Fingerabdruck konnte nicht
 hinzugefügt werden </string>
     <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
+    <string name="agree">I agree</string>
 </resources>

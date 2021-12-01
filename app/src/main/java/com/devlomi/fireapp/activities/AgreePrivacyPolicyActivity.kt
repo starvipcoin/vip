@@ -21,6 +21,7 @@ import com.devlomi.fireapp.utils.PermissionsUtil
 import com.devlomi.fireapp.utils.SharedPreferencesManager
 import com.devlomi.fireapp.utils.network.FireManager
 import kotlinx.android.synthetic.main.activity_agree_privacy_policy.*
+import kotlinx.android.synthetic.main.fragment_verify_phone.*
 
 
 class AgreePrivacyPolicyActivity : AppCompatActivity() {
@@ -30,19 +31,34 @@ class AgreePrivacyPolicyActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_agree_privacy_policy)
 
-        privacytxt.setOnClickListener {
+//        privacytxt.setOnClickListener {
+//
+//            showContactsConfirmationDialog()
+//
+//        }
 
-            showContactsConfirmationDialog()
 
+        getHtml4(tv_privacy_policy_dialog)
+
+        chb_agree.setOnCheckedChangeListener { buttonView, isChecked ->
+            if (isChecked) {
+                btn_agree.isEnabled=true
+                btn_agree.setEnabled(true)
+            }else{
+                btn_agree.isEnabled=false
+                btn_agree.setEnabled(false)
+            }
         }
 
         btn_agree.setOnClickListener {
-            SharedPreferencesManager.setAgreedToPrivacyPolicy(true)
-            if (!FireManager.isLoggedIn())
-                startLoginActivity()
-            else
-                startNextActivity()
+            if (btn_agree.isEnabled){
+                SharedPreferencesManager.setAgreedToPrivacyPolicy(true)
+                if (!FireManager.isLoggedIn())
+                    startLoginActivity()
+                else
+                    startNextActivity()
 
+            }
         }
 
     }

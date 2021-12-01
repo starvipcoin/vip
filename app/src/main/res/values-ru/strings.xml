@@ -312,4 +312,5 @@
     <string name="about">Около</string>
     <string name="could_not_add_fingerprint">Не удалось добавить отпечаток пальца</string>
     <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
+    <string name="agree">I agree</string>
 </resources>

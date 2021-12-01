@@ -519,6 +519,7 @@
     <string name="restore_db_file">Restore Messages Database</string>
     <string name="initializing">Initializing</string>
     <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
+    <string name="agree">I agree</string>
 
 
 </resources>
