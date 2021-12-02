@@ -311,6 +311,6 @@
     <string name="chat">Sohbet</string>
     <string name="about">hakkında</string>
     <string name="could_not_add_fingerprint">Parmak İzi eklenemedi</string>
-    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="agree">Kabul ediyorum</string>
+    <string name="agree_text">Bu Gizlilik Politikasına uygun olarak bilgi toplanmasını kabul ediyorum</string>
 </resources>

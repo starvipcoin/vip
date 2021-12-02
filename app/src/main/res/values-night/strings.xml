@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="agree">I agree</string>
+    <string name="agree_text">I agree to the collection of information in accordance with this Privacy Policy</string>
 </resources>

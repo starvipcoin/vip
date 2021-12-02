@@ -518,8 +518,8 @@
     <string name="backup_notice">on Android 10 and above, after deleting the app you will lose your media files unless you\'ve made a backup</string>
     <string name="restore_db_file">Restore Messages Database</string>
     <string name="initializing">Initializing</string>
-    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
-    <string name="agree">I agree</string>
+    <string name="agree">I agree to the collection of information in accordance with this Privacy Policy</string>
+    <string name="agree_text">I agree to the collection of information in accordance with this Privacy Policy</string>
 
 
 </resources>

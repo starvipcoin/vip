@@ -311,6 +311,6 @@
     <string name="chat">Bate-papo</string>
     <string name="about">Sobre</string>
     <string name="could_not_add_fingerprint">Não foi possível adicionar a impressão digital</string>
-    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="agree">I agree</string>
+    <string name="agree_text">I agree to the collection of information in accordance with this Privacy Policy</string>
 </resources>

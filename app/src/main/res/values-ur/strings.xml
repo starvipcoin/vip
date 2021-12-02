@@ -311,6 +311,6 @@
     <string name="chat">چیٹ</string>
     <string name="about">کے بارے میں</string>
     <string name="could_not_add_fingerprint">فنگر پرنٹ شامل نہیں کیا جاسکا</string>
-    <string name="agree_privacy">If you click on \'accept and continue\', you agree to the privacy policy</string>
     <string name="agree">I agree</string>
+    <string name="agree_text">I agree to the collection of information in accordance with this Privacy Policy</string>
 </resources>
